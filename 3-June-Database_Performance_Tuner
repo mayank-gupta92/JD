@@ -878,4 +878,286 @@ Excellent communication and collaboration skills.
 Ability to work independently and in a team environment.
 Familiarity with version control systems (e.g., Git) and Agile methodologies is preferred.
 
+21)
+link = https://www.glassdoor.co.in/Job/oracle-performance-tuning-jobs-SRCH_KO0,25.htm
+JOB SUMMARY
+Extensive knowledge of troubleshooting skills in RAC, ASM, and Data Guard.
+Should be able to solve the Sev1 performance issues.
+He should be able to handle critical database issues and incidents.
+Should be an expert in Oracle cloud infrastructure and DBCS.
+Hands-on experience in standalone/RAC guard building and troubleshooting.
+Experience in database patching, upgrading, and migration.
+There is an appetite to learn new technologies and constantly improve technical skills.
+Should have good knowledge of shell scripting.
+Strong SQL and PL/SQL knowledge.
+He should be an expert in SQL tuning and rewriting.
+Expertise in checking the execution plan, SQL query logic, and analyzing the AWR reports.
+Soft SKills
+Excellent verbal and written communication skills.
+Client Interaction.
+Problem-solving ability.
+Interpersonal skills.
 
+22)
+link = https://wellfound.com/jobs/2971020-database-performance-consultant-postgresql
+The Role
+Who is Percona?Percona is a respected thought leader in the open source community. We provide services and software for MySQL, MongoDB, PostgreSQL and Maria DB to open source users globally.
+
+Percona is remote-first and globally dispersed; we have 320 people in almost 50 countries. We offer a collaborative, highly-engaged culture where your ideas are welcome and your voice is heard. The growth and development of our staff is a top priority; we provide funding for training, certifications, conferences and more. Discover what it means to work with some of the smartest people in the industry, who also know how to have fun and are always willing to lend a helping hand. We offer flexible hours, the ability to work remotely and the amazing experience of working with a multinational team of experts.
+
+The Percona Support Team… Percona Support is a global, elite team of engineers who love getting to the bottom of weird and interesting database behaviour. We understand our customers’ business needs and the nuances of their technical environments. This allows us to help our customers see the big picture and identify opportunities to improve their overall database infrastructures. What you’ll be doing… You’ll be teaming with some of the most well-known database experts in the industry who are even better teammates, friends and mentors. You’ll have the opportunity to develop your own skills and become more powerful than you can possibly imagine…. with databases. This is not a boring, entry-level role where you’ll just be triaging the boring and monotonous. Your main responsibility will be helping our customers’ DBA teams when they need expert assistance. You’ll do that by gathering relevant data and investigating issues to provide a detailed analysis of your findings in a digestible format by email, instant message or voice. For more serious and production-impacting issues, you’ll perform screen-sharing sessions to help them quickly navigate and resolve issues. When you’re not fixing things, you’ll be authoring new blog posts on interesting topics for our open-source community to digest, answering questions on our forum, creating new articles in our customer-facing knowledge base for more frequently seen issues, and hosting webinars amongst other things. This is a remote role, so you can be located anywhere in the world. All you need is a decent, stable internet connection.
+
+You’ll stand out if you have the following:
+Good hands-on knowledge of PostgreSQL, PostgreSQL Provided tools and Contribution modules
+Be a skilled with some of the PostgreSQL ecosystem of tools and technologies
+Knowledgeable about performance tuning, query optimization, & index tuning
+Know-how of backup solutions such as pg base backup, pgBackRest and WAL-G, etc, and also the Point-in-Time-Recovery
+Some experience with high availability solutions (replication, routers, proxies, etc)
+Exposure and practice with zero-downtime procedures
+Good understanding of monitoring requirements
+Demonstrable experience of administering Linux based systems
+Ability to troubleshoot methodically, identifying and applying fixes for known errors, and when necessary, capacity to think outside of the box to resolve complex issues
+Self-taught and enthused to grow your skill set with new technologies as the industry continues to evolve
+Availability to travel for the occasional team meeting, conference or customer visit
+Experience working with customers in English
+Very desirable to have related Kubernetes knowledge
+What Will Make you Stand Out:
+MySQL knowledge
+Experience working in SLA-bound operations
+OpenSource Community contributions (could be a blog)
+Good practice with working over screen-sharing/phone
+Patroni / Repmgr / Stolon
+Cloud Services such as AWS and RDS, Azure, GCP
+Percona Monitoring & Management (PMM) and other monitoring tools
+Configuration management solutions such as Ansible, Puppet or Chef
+Good grasp of ANSI SQL 92 to 2016 and ability to write/rewrite SQL statements involving Window functions and recursive CTEs
+Indexing methods including Full-Text Indexing
+Contrib Modules of PostgreSQL
+Most popular extensions - pgrepack, pgpartman, pg_audit etc
+Foreign Data Wrappers of PostgreSQL (postgresfdw, oraclefdw, tdefdw, filefdw etc)
+Advanced Linux troubleshooting tools (gdb, perf, strace, bpftrace, tcpdump, etc)
+Experience programming in C
+
+23)
+link = https://www.naukri.com/job-listings-lead-sql-database-engineer-performance-tuning-kodehash-technologies-pvt-ltd-bengaluru-7-to-9-years-150524904719?src=cluster&sid=17174229490176314_7&xp=4&px=1
+Job description
+As a Lead SQL Database Engineer, you will be responsible for designing, implementing, and maintaining SQL-based systems and databases.
+
+You will also collaborate with cross-functional teams to identify business opportunities and provide customized solutions, and will work closely with developers and data scientists to design and deploy SQL-based pipelines.
+
+Skilled in crafting complex SQL queries and business logic, performing database design, and optimizing query and database performance
+
+Qualifications :
+
+- Bachelor's degree in Computer Science or a related field- Experience with designing, creating, and maintaining SQL databases and systems
+
+- Good knowledge of query optimization, indexing, and performance tuning techniques- Experience with distributed database systems- Experience with AWS or other cloud platforms
+
+- Experience with database automation and implementation of CI/CD pipeline- Strong collaboration and communication skills- The ideal candidate will have a strong background in SQL-based systems and databases, with experience in designing, implementing, and maintaining databases and systems.
+
+- They will also have experience with cloud platforms, database automation, and the implementation of CI/CD pipelines.
+
+
+24)
+link = https://careers.cognizant.com/global-en/jobs/00059010853/senior-performance-engineer-with-tuning-experience/?source=JB-17120&_ccid=171742312357727zrvk0zg
+Senior Performance Engineer with Tuning experience
+Location: Austin, TX and Raleigh, NC
+
+Qualifications:
+
+Responsibilities:
+
+Define, develop and apply performance/scalability benchmarks.
+Work in cross-functional teams to characterize, debug, and improve system performance and scalability.
+Work efficiently with various profiling tools to identify performance bottlenecks and provide root cause analysis.
+Devise and conduct experiments to evaluate the performance impacts of system changes.
+Plan and implement performance tests using an automated testing environment and conduct analysis of results.
+Participate in architecture and design reviews of complex solutions in cross-team engineering efforts and own quality perspectives for the design.
+Must-Have Experience:
+
+Minimum 3+ years of proven hands-on software testing experience.
+Strong knowledge of one or more programming languages (e.g., Python, Perl, ABAP, Java, C++).
+Experience in performance testing tools - LoadRunner Enterprise, Apache JMeter, SoapUI, Postman.
+Experience in data analysis and visualization, end-to-end performance, and root cause analysis.
+Experience in service-oriented architecture, and RESTful APIs.
+Strong knowledge of performance-tuning SQL queries.
+Extensive hands-on experience with JVM tuning techniques.
+Experience with application performance monitoring tools like Dynatrace, and AppDynamics.
+Efficiently work with various profiling tools to identify performance bottlenecks.
+Following experience is a plus / Nice to have
+
+Working knowledge of Agile or Scrum software development methodologies.
+Experience in Cloud-based platforms like AWS and GCP.
+Strong experience in performance testing and analysis of SCP iOS SDK mobile apps.
+Understanding of basic Machine Learning algorithms & principles.
+Strong understanding of relational database systems as well as in-memory databases.
+Understanding of Algorithms and O-Notation.
+Code management using Git.
+
+25)
+link = https://www.ziprecruiter.in/jobs/326057706-technicallead-databaseengineer-oracledba-rman-postgres-performance-tuning-shell-bash-scripting-aws-at-vertafore?mid=%7Bsource_board.id%7D&cid=6139ac14-a455-4de7-8fbf-6201240e3ce1&lvk=Y1yAzBJC93FklqEdLpOIbg.--NObGyHbtR&tsid=152014736
+
+As an Oracle Database Engineer, you will be responsible for database administration, design, development, and support applications available systems. You will be responsible for continuously enhancing the automation process of the database and should have an interest in DevOps to help us improve our software engineering practices. You will require to work closely with multiple stakeholders in order to understand their database needs. After understanding their needs, you will make recommendations and provide self-service offerings that will allow stakeholders to deploy, monitor, backup and maintain their databases for business need.
+
+You will work with a fast-paced, skilled team of engineers, DBA’s, and developers across multiple high-profile projects. You will also participate in IT projects from inception of the project and daily maintenance phase of those projects. You should have a good understanding of cloud concepts. If you are a top-notch DBA and looking for the next challenge, apply now!
+
+Core Requirements and Responsibilities:
+
+Essential job functions included but are not limited to the following:
+
+· Required: 5+ years experience running a large fleet of Oracle databases at scale, focus on installation, configuration, upgrade, performance, security, scalability, reliability, high-availability, and disaster recovery setup.
+
+· Experience with AWS database administration, on-premises Oracle, Postgres, SQL Server and Mongo database administration, deployments, ideally RDS Postgres and Aurora Postgres, EC2 Oracle
+
+· Experience in installing and upgrading Oracle 19c databases.
+
+· Experience with RMAN database backup and recovery.
+
+· Setup Monitoring, Backup & Recovery, High Available and alerting notification systems on AWS and on-premises.
+
+· Perform analysis, design, implementation, and migration of data and application database code from Oracle to AWS- RDS/Aurora PostgreSQL and EDB PostgreSQL databases.
+
+· Develop automation frameworks (Infrastructure as code, CI/CD pipelines) and tooling that will be consumed by the entire engineering organization.
+
+· Container and container orchestration technologies (e.g. Docker, Kubernetes)
+
+· Cloud-native infrastructure (AWS)
+
+· Linux internals and network configuration and protocols
+
+· Experience in creating shell scripts (Linux, Python is a plus).
+
+· Infrastructure-as-Code and configuration management (Chef, Terraform, Jenkins)
+
+· Experience in Ansible is huge plus.
+
+· Resolve complex problems by investigating and devising solutions for database operations. May include installations, configuration, tuning and maintenance of database management.
+
+Hands-on end-to-end Database Development encompassing Database Design and Development working with cross-functional teams.
+You should be able to debug application code written in PL SQL and PG SQL for different applications.
+Understand the business priorities and requirements; architect/develop solutions to meet the business need and lead execution.
+Work as an individual contributor and collaborate with multiple teams/vendors/consultants effectively.
+
+26)
+link = https://www.ziprecruiter.in/jobs/324468097-performance-tuning-dba-at-diverse-lynx?mid=%7Bsource_board.id%7D&cid=9351e48b-4522-43af-91f6-9aef1c0f8cd0&lvk=AfhKMJUPWqGBYrzeqBaGhQ.--NNtNrIn5c&tsid=152014736
+
+Role: Performance Tuning DBA
+Exp: 4 YRs to 8 YRs
+Loc: Gurgaon
+Mode: C2H
+Payrole: DiverseLynx
+JD:
+Hands-on experience as an oracle DBA, working with Oracle 9i, 10g and 11g.
+Should have "Expert" level SQL tuning/performance Tunning skill and experience
+Expert knowledge in DPT and AWR objects
+Experience with Golden Gate implementation and troubleshooting.
+Should have "Expert" level SQL tuning skill and experience
+Upgrade & Migration of large databases across data Centre.
+Identify performance bottlenecks and propose solutions.
+ASM Instance Creation and troubleshooting.
+Good Understanding of oracle Architecture.
+Experience with IBM AIX, Linux, SUN Solaris UNIX operating Systems.
+Good Communication.
+Open for shift as well
+
+27)
+link = https://www.ziprecruiter.in/jobs/325678340-plsql-performance-tuning-at-nr-consulting-india?mid=%7Bsource_board.id%7D&cid=0b1f1504-6fbc-4523-b50f-26f09fd50936&lvk=SwUP7O-Uh7jqZfM7yZ0ZGw.--NOQ20zh2V&tsid=152014736
+
+Job Location:- Pune, Chennai, Bangalore
+
+Job Description:-
+Should have at least 6-8 years of experience in Oracle PL/SQL development and Performance tuning.
+Strong performance tuning techniques of SQL is must
+Good in Problem solving and analytical skills
+Good communication skills
+
+28)
+link = https://www.ziprecruiter.in/jobs/324463041-oracle-core-dba-m-at-netpace-inc?mid=%7Bsource_board.id%7D&cid=7b32ef1a-e86c-4f24-b488-7633461467d7&lvk=4FgPWVcL5IFsncR9GDxlow.--NNtNpqJAB&tsid=152014736
+
+Oracle core DBA
+Available to work in 24X7 capability.
+Strong Performance tuning skills - Query level tuning / DB tuning / Memory level tuning
+Expert knowledge of Oracle Database, Goldengate, Exadata, Oracle RAC, Oracle ASM, Data guard, Backup & Recovery etc.
+Strong DBA skills and relevant working experience with Oracle Database 11g and 12c.
+Experience implementing high availability features of Oracle Database.
+Experience in Oracle Enterprise Manager (OEM) 11g/12c/13c is a plus.
+Knowledge on DB Security viz. AVDF, DB Vault, Oracle Key Vault, e-Wallet, TDE would be added advantage.
+Sharp technical troubleshooting skills.
+Good understanding of support processes.
+Ability to manage escalated technical situations & develop action plans.
+Ability to spot proactive services that benefit of customer.
+Ability to facilitate issues with Development and Support.
+Strong analytical skills.
+BE/BTech and/or MS in Computer Science or equivalent preferred.
+Oracle OCP DBA certification - Preferred.
+Some travel may be required.
+
+29)
+link = https://www.ziprecruiter.in/jobs/324881736-dba-oracle-at-oneshield?mid=%7Bsource_board.id%7D&cid=fea62ed3-e8c0-4f07-a9d9-df1489d954a6&lvk=R1Ugouy1mT494LGFV9mt5A.--NOtdMSRM-&tsid=152014736
+
+Job Description
+    Installation, implementation, and support for all databases in AWS.
+    Develops and maintains infrastructure code to install, configure, upgrade and patch database software
+    Designs, implements, maintains, and troubleshoots data replication pipelines and backups
+    Works with Development teams to analyze data and ensure consistency withData Architecture Standards.
+    Performs system administration functions including tuning, performance monitoring, security monitoring, and system upgrades.
+    Evaluates, recommends, and implements production/non-production enhancements including storage and backup management.
+    Works with application developers and systems engineers to ensure optimal performance of production systems.
+    Plans and implements new processes and automations within the database services group.
+    Design and deploy mission critical applications.
+    Troubleshoot L2 & L3 issues.
+
+Desired Technical Skills
+    Experience with Linux
+    Experience in Oracle 12c/19c is a must.
+    In-depth knowledge of Oracle architecture.
+    Experience in RMAN & Datapump is a must.
+    Excellent SQL and PL/SQL knowledge required.
+    Experience with AWS Oracle database (RDS & EC2) is a must.
+    Experience in performance tuning is required.
+    Experience in database migration from VM to Cloud & vice-versa.
+    Experience in shell scripting.
+    Knowledge of Dataguard, Enterprise Manager and RAC.
+
+
+Desired Business Skills:
+    Excellent communication skills
+
+Education
+    A full-time Bachelors'/Masters' Degree from a recognized university.
+
+Experience    
+    Minimum 5 years of experience as an Oracle DBA managing both Production and Development databases.
+
+OneShield Benefits
+    Highly competitive compensation
+    Opportunity for rapid professional development in a high-growth business
+    Access to premium training content from sources including Udemy and The Institutes (AINS)
+    Excellent work environment
+    Stable business model proven over the course of 20+ year history
+
+30)
+link = https://www.ziprecruiter.in/jobs/326382431-seniro-oracle-specialist-at-may-i-help-you?mid=%7Bsource_board.id%7D&cid=d328c048-6d68-4664-b460-3e5924e61ead&lvk=eAvttj50zM1T73xytZJjEg.--NOlz23sVc&tsid=152014736
+Senior Oracle Specialist
+
+Experience 7 to 10 years
+
+locaiton : Bangalore and hyderabad
+
+
+
+Qualifications and Skills
+
+
+
+Bachelor's degree in Computer Science, Engineering, or a related field.
+7 to 10 years of experience in Oracle database administration.
+Strong knowledge of Oracle database architecture, concepts, and best practices.
+Experience in Oracle database performance tuning and optimization.
+Proficiency in PL/SQL programming.
+Excellent problem-solving and troubleshooting skills.
+Ability to work independently and handle multiple priorities.
+Good communication and interpersonal skills.
+
+
+Roles and Responsibilities
