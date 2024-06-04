@@ -1,0 +1,972 @@
+Database Developer
+
+1.
+
+Responsibilities
+
+We are looking for highly motivated individuals who are passionate about developing high performance, low latency, infinitely scalable software development ecosystem covering Cosmos DB distributed protocols, to be used by customers across the globe in business-critical workloads. These workloads capture the needs of the hobbyist developer to the Fortune 500 companies.
+
+We Are Looking For Experienced Software Engineers With
+
+ Bachelor’s degree in Computer Science or equivalent Engineering with 2-3+ years of software development experience.
+ Good problem-solving, scalable system design and troubleshooting skills.
+ Good learner, team player with analytical skills and can-do attitude.
+ Familiarity on programming experience on NodeJS/Javascript/Typescript, .NET, JAVA, Scala or Python will be good, but not necessary.
+ Exposure to cloud computing/services, scalable system design.
+
+Embody our culture and values
+
+Qualifications
+
+Required/Minimum Qualifications
+
+Bachelor’s degree in Computer Science or equivalent Engineering with 2-3+ years of software development experience.
+
+ Good problem-solving, scalable system design and troubleshooting skills.
+
+Other Requirements
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check:
+
+This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter. 
+
+Preferred/Additional Qualifications
+
+Good learner, team player with analytical skills and can-do attitude.
+
+ Familiarity on programming experience on NodeJS/Javascript/Typescript, .NET, JAVA, Scala or Python will be good, but not necessary.
+ Exposure to cloud computing/services, scalable system design.
+
+
+2.
+
+
+Responsibilities:-
+
+Design, modeling, develop, and implement database solutions for reference data management.
+Extract, transform, and load (ETL) data from multiple databases to support reference data enhancements and new functionalities.
+Interface with System DBAs:
+o Collaborate with system DBAs to help implement database changes, upgrades, and migrations.
+o Communicate database requirements and performance metrics to system DBAs for infrastructure
+optimization.
+o Assist system DBAs in troubleshooting database issues and performance bottlenecks.
+SQL Tuning:
+o Analyze and optimize SQL queries to improve database performance and efficiency.
+o Work with development teams to fine-tune database design and indexing strategies.
+o Provide guidance on SQL optimization techniques to improve overall application performance.
+Cloud and On-Premise Awareness:
+o Stay informed about cloud and on-premise database design principles and best practices.
+o Understand the implications of database design decisions on cloud and on-premise 
+
+o deployment options.
+o Provide input on database architecture decisions to ensure compatibility with both cloud and 
+
+o on-premise environments.
+
+
+Qualifications
+
+· Bachelor's degree in Computer Science, Information Technology, or a related field (or equivalent experience).
+· Proven experience as a Database Developer with strong SQL Server and Oracle skills (minimum 3+ years).
+· Familiarity with SQL tuning techniques and query optimization.
+· Understanding of cloud and on-premise database design concepts (e.g., normalization, indexing).
+· Experience with data extraction, transformation, and loading (ETL) processes,
+· Working knowledge of Unix/Linux operating systems.
+· Scripting skills (e.g., Bash, PowerShell) preferred.
+· Knowledge of Python a plus.
+· Excellent communication and collaboration skills, with the ability to work effectively with both technical and
+non-technical audiences.
+· Strong problem-solving and analytical abilities.
+· Attention to detail and a commitment to delivering high-quality work.
+
+
+3.
+
+
+
+Must Have :
+
+Database architecture understanding
+PL/SQL and SSIS with MS-SQL Server
+well versed with Schema architecture and mapping with business requirement
+well versed with performance tuning and managing multi database data fetch
+well versed with PL/SQL development.
+
+4.
+
+Skill: MS SQL, Stored Procedures and Performance Tuning
+Role: Database Developer
+Experience: 3 to 5 years
+Notice Period: Immediate Joiners
+Type of Position: Full Time
+Location: Hyderabad, India
+
+
+Job Description - Database Developer
+
+
+
+1) Work closely with the team to detect, diagnose, and remediate production issues.
+ 2) Troubleshoot database related issues in a timely fashion.
+ 3) Carry out monitoring, tuning, and database performance analysis.
+ 4) Utilize ad-hoc techniques to perform on-the-fly analysis of data.
+ 5) Design and implement complex SQL queries and new reports to support business needs.
+ 6) Develop stored procedures, functions and triggers that conform to specific outputs and 7) Performance requirements to support.
+ 8) Create and maintain Partitions, archiving data jobs and purging data.
+ 9) Create and maintain SQL agent jobs that provide customer reporting and data maintenance.
+ 10) Good to have knowledge on PostgreSQL.
+
+
+
+5.
+
+Responsibilities
+
+Minimum 6 to 8 years of work experience in Technology (application development).
+At least 5 years of hands-on experience with Oracle 19 and above (preferred) or any other relational database.
+Proficient in writing complex SQLs by incorporating – Joins, Aggregations, Common Table expressions, Analytical functions etc.
+Hands-on Experience in Writing and Understanding Stored Procedures / packages / functions / triggers, etc.
+Proficient in database performance tuning including indexing, partitioning, analyzing SQL plans etc.
+Demonstrate strong and hands-on experience and background in database principles and concepts.
+Solid understanding of data modelling, data warehousing principles, and best practices
+Strong experience with Agile/SCRUM methodology
+
+Good To Have
+
+SOA development experience with skills in Spring Boot, JMS, Hibernate, Web Services (SOAP & RESTful) is an added advantage.
+Experience with SOA tools/technologies such as: OData, Kafka
+Proficient in building applications using serverless frameworks and containers using Dockers and Kubernetes
+Proficient with working on AWS
+Experience with Continuous integration and deployment tools like ADO, Jenkins.
+Usage of Eclipse IDE and GitHub for source code management and development
+Good understanding and usage of JSON Java Libraries, XML Java libraries
+Experience with Test Tools such as Insomnia and be able to create Junit Test cases, Performance testing, Load testing.
+Experience supporting production environments.
+Expert knowledge of Agile approaches to software development and able to put key Agile principles into practice to deliver solutions incrementally.
+Experience working with cross functional teams.
+Detail oriented with ability to take Initiative and proactively address problems.
+Excellent analytical thinking, interpersonal, oral, and written communication skills.
+Manage work to hit critical project timelines in a fast-paced environment.
+
+Preferred Qualification
+
+Financial services industry experience
+AWS Certified
+Oracle Certified
+
+
+
+6.
+
+
+We’re looking for a PostgreSQL DB Developer who will empower us to build industry disruptive tech products and enable us to provide our customers with smart actionable insights that will revolutionise their businesses.
+
+
+You want to
+
+Design stable, reliable and effective databases
+Modify databases according to requests and perform tests
+Solve database usage issues and malfunctions
+Develop stored procedures and SQL queries
+Work with developers to improve applications and establish best practices
+Gather user requirements and identify new features
+Perform database updates and migrations
+Ensure all database programs meet company and performance requirements
+Research and suggest new database products, services, and protocols
+
+
+You have
+
+BS Computer Science degree with outstanding academic performance or equivalent industry experience
+Minimum 5 years of experience developing relational databases on Linux such as PostgreSQL
+Proven work experience as a Database developer In-depth understanding of data management (e.g. permissions, recovery, security, and monitoring)
+Proficient in creating complex stored procedures and SQL scripts
+Knowledge of software development and user interface web applications
+An ability to understand frontend user requirements and have a problem-solving attitude
+Excellent verbal and written communication skills
+
+
+7.
+
+Primary Skills:
+
+UNIX, Database Design, etl programming, sql developement, Data Modelling, Python, Shell Scripting
+
+Edstem Technologies is Looking for:
+
+Role Overview Description
+
+We are looking for an experienced SQL Server Database Developer to join our technology team.
+The selected candidate will be responsible for designing, developing and maintaining SQL Server database solutions.
+
+
+Roles & Responsibilities
+
+Design and develop databases
+Write Transact-SQL code to query, insert, update, and manipulate data
+Build tables, views, stored procedures and functions
+Perform data modeling and build database schemas
+Troubleshoot database-related problems and optimize database performance
+Establish backup and recovery procedures
+
+
+Requirements
+
+4+ years of experience as a SQL Server Database Developer
+Strong knowledge of T-SQL, SQL Server stored procedures, functions and triggers
+Experience with database design, modeling data structures and optimizing database performance
+Hands on experience developing ETL processes
+
+
+8.
+
+Basic Qualifications
+
+Bachelors in Computer Science or Engineering, or equivalent experience.
+
+ 4+ years of experience as a DBA, Database Engineer, or similar role is required.
+ 3+ Experience with RDS (PostgreSQL, MySQL), Redshift and/or other RDBMS systems Experience in UNIX shell and SQL, and
+ 2+ years of experience in Database migrations, Creation of Objects in SQL, NoSQL technologies.
+ 1+ years experience DynamoDB, NoSQL Databases and/or other relational databases like RDS, PostgreSQL.
+ At least one procedural language such as Python, Ruby, Java, Perl
+
+Preferred Qualifications
+
+ Experience in supporting large-scale high-availability systems in a production environment.
+ Worked or Contributed to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.
+ Experience with Amazon Web Services such as IAM, EC2, S3, CLI, SDK or equivalent cloud services.
+ Knowledge of CI/CD tools, Development lifecycle & best practices for coding standards, code reviews, source control management, build processes, testing, and operations.
+ Proficiency in one or more programming languages such as Java, C#, Python, Go, ReactJS.
+ Excellent speaking-listening-writing skills, attention to details, proactive self-starter.
+ Excellent problem-solving skills.
+
+
+9.
+
+
+Responsibilities:
+
+Design, build, test and deploy Google Cloud data models and transformations in BigQuery, Data fusion environment (e.g. SQL, stored procedures, indexes, clusters, partitions, triggers, etc.)
+Optimize data views for specific visualization use cases making use of schema design partitions, indexes, down-sampling, archiving, etc. to manage trade-offs such as performance and flexibility.
+Protect the solution with appropriate Authorization and Authentication models, data encryption and other security components.
+Review and refine, interpret and implement business and technical requirements
+Ensure you are part of the on-going productivity and priorities by refining User Stories, Epics and Backlogs in Jira
+Manage code artefacts and CI/CD using tools like Git, Jenkins, Google Secrets Manager, etc.
+Estimate, commit and deliver requirements to scope, quality, and time expectations
+Deliver non-functional requirements, IT standards and developer and support tools to ensure our applications are a secure, compliant, scalable, reliable and cost effective
+Write well-commented, maintainable and self-documenting code
+Fix defects and provide enhancements during the development period and hand-over knowledge, expertise, code and support responsibilities to support team
+ 
+Must-Have Skills:
+
+Expert in database design - both relational and dimensional data models (and preferably Data Vault) in Google BigQuery or similar Cloud technology.
+Proven recent experience developing, refactoring, optimization of SQL/T-SQL.
+Expertise in Administration and Development of On-prem or Cloud Databases, Warehouses and Lakes.
+Data preparation, wrangling and refactoring skills, for example as part of a Data Science pipelines
+Expert in the preparation, usage, visualization and editing of data in web, dashboard or other user interfaces (3-tier architecture, CRUD procedures, etc.)
+Excellent understanding of GCP Architecting and solution design.
+Excellent knowledge of devops tools like Ansible, Jenkins, Github ,Puppet, Chef etc.
+IT methodology/procedural knowledge; Agile/Scrum, DevOps and ITIL principles.
+BS/MS degree in Computer Science, Engineering or a related subject.
+Excellent communication and interpersonal skills in English. Proficiency in verbal, listening and written English is crucial.
+Enthusiastic willingness to rapidly and independently learn and develop technical and soft skills as needs require.
+Strong organizational and multi-tasking skills.
+Good team player who embraces teamwork and mutual support.
+Interested in working in a fast-paced environment.
+
+
+Good to Have Skills:
+
+Experience with application monitoring & Production Support.
+Broad experience with IT development and collaboration tools.
+An understanding of IT Security and Application Development best practice.
+Understanding of and interest in various investment products and life cycle and the nature of the investment banking business.
+Working in a global team with different cultures.
+
+
+10.
+
+What You'll Do:
+
+Architect and develop systems, methodology, novel architectures, and benchmarks powering ThoughtSpot’s search engine.
+Provides guidance in the investigation and solution of complex problems affecting overall system architecture of projects. 
+Work with diverse, cross-functional teams of designers, UX researchers, engineers, product managers in a fast, collaborative process.
+Drive Internal/external visibility for ThoughtSpot through panels, patents, papers, talks, blog posts, and open source.
+Provide technical leadership and mentor and grow people in your team to be more productive and grow as engineers. 
+
+If you are looking to solve hard problems, work with amazing people, and have fun while building the future of analytics - this role is for you!!!
+
+What You'll Bring:
+
+Technical - You love technology. You love to discuss it, build it, use it, leverage it, and stay abreast of the latest developments.
+Problem Solver - You are inspirational in problem-solving, algorithmic thinking, and programming skills along with computer science fundamentals.
+8+ years of experience crafting world-class products & experiences.
+Experience of working on database internals with expertise in SQL and query processing. 
+Exceptional expertise in building large systems with high scale and performance. 
+Exceptional expertise in designing systems with clean architecture and beautiful code.
+Self-Motivated - You are a role model for driving big impact changes in the software and organization through your exceptional skills in spotting and removing big rocks.
+Customer obsessed - You are obsessed with making customers successful. You build software with customers in mind and get satisfaction by having satisfied customers. You go out of your way to help customers be successful.
+tag
+
+
+11.
+
+Technical skills Required: SQL Development, SSIS, SSRS, Stored Procs, Functions, Triggers, Administration, Azure
+
+Extensive Hand-on Experience in the Design, Architecture, Set-up, managing, monitoring, and scaling SQL Databases on Microsoft Azure (SQL PaaS)
+Experience with Single Tenant and Multi-tenant Data Architecture
+Prior experience with converting Multi-Tenant Data model to single tenant model using Data Separation strategies is a plus.
+Experience with Data Sharding, Data Partitioning and other data separation and segregation strategies.
+Ability to review Stored Procs and Optimize them for efficiency.
+Ability to review Database schema and optimize them for performance and scale.
+Ability to re-write Stored Procs, Functions, Triggers etc. from ground up.
+Prior Experience with working in a Life Sciences and Healthcare environment where HIPPA compliance and governance is critical.
+Experience building data pipelines for inbound and outbound data.
+
+
+12.
+
+
+Your Impact
+
+As a seasoned software engineer of the database archival team, you will be responsible for:
+Own design and development to deliver technical outcomes on all product and platform-related issues
+Help with backlog planning, cross-team dependency planning and drive the team to execute on the plan.
+Design and develop high-quality code to improve archival service reliability, availability, quality, performance and scalability
+Develop test strategies, design automation frameworks, and write unit/functional tests to drive up code coverage and automation metrics
+Collaborating with broader engineering teams, architects, and engineering managers to execute on the strategy for your feature areas, help plan the backlogs, and enable your Scrum team to implement that roadmap flawlessly
+Owning and resolving Customer issues with utmost urgency and adhering to customer trust. Troubleshoot issues with the services that our team develops and owns, be passionate about automation
+Drive cross-team collaborative work environment with other Scrum teams and engineering teams that fosters autonomy, innovation, learning, respect and transparency while holding a high bar for delivery
+
+Required Skills:
+
+10+ years in software development which includes experience in varying aspects of the development cycle, including design, coding, testing, and performance characterization.
+Experienced with developing backup/restore/database features for cloud database
+Experience with Scrum in an Agile development environment
+Prior experience with using Kubernetes to build and operate/manage the stateful application clusters
+Knowledge of infra structure as code for large complex systems - helm/terraform
+Experience in the public cloud technologies like AWS, mainly on EKS, EC2, IAM, VPC, S3
+Experience using telemetry and metrics to drive operational excellence will be an advantage
+Deep knowledge of object oriented programming and experience with at least one scripting programming language: Java, Python
+Ability to debug, optimize code, and automate routine tasks and tests
+CI/CD automation experience, including the understanding of key open sources technologies like Jenkins, Spinnaker, and Docker.
+Excellent communication skills and problem-solving skills
+Degree or equivalent relevant experience required. Experience will be evaluated based on the core competencies for the role (e.g. extracurricular leadership roles, military experience, volunteer roles, work experience, etc.)
+
+
+13.
+
+
+
+About the Role: Grade Level (for internal use): 10 S&P Global Ratings The Role: Sr. Engineer, Data Services. Grade (relevant for internal applicants only): 10A. The Location: Hyderabad. The Team: Data Services horizontal at S&P Global Ratings builds and maintain high available data management systems. Ranging from data onboarding, data pipelines, data services, business intelligence. All our products are on cloud and we build new products that are cloud native. This team has a broad and expert knowledge on Ratings critical data domains, technology stacks and architectural patterns. They foster knowledge sharing and collaboration that results in a unified strategy. All Data Engineering team members provide leadership, innovation, timely delivery, and the ability to articulate business value. The Impact: As a member of the Data Services engineering team, you will be responsible for analysis, design, development, and support of enterprise data management systems. The ideal candidate should have expertise with data management technologies and a desire to drive change through data alignment across the enterprise. The role requires the candidate to be a hands-on problem solver and developer helping to extend and manage the data platforms. You will be an expert contributor and part of the Rating Organization’s Data Engineering team. Responsibilities: Minimum 6 to 8 years of work experience in Technology (application development). At least 5 years of hands-on experience with Oracle 19 and above (preferred) or any other relational database. Proficient in writing complex SQLs by incorporating – Joins, Aggregations, Common Table expressions, Analytical functions etc. Hands-on Experience in Writing and Understanding Stored Procedures / packages / functions / triggers, etc. Proficient in database performance tuning including indexing, partitioning, analyzing SQL plans etc. Demonstrate strong and hands-on experience and background in database principles and concepts. Solid understanding of data modelling, data warehousing principles, and best practices Strong experience with Agile/SCRUM methodology Good to have: SOA development experience with skills in Spring Boot, JMS, Hibernate, Web Services (SOAP & RESTful) is an added advantage. Experience with SOA tools/technologies such as: OData, Kafka Proficient in building applications using serverless frameworks and containers using Dockers and Kubernetes Proficient with working on AWS Experience with Continuous integration and deployment tools like ADO, Jenkins. Usage of Eclipse IDE and GitHub for source code management and development Good understanding and usage of JSON Java Libraries, XML Java libraries Experience with Test Tools such as Insomnia and be able to create Junit Test cases, Performance testing, Load testing. Experience supporting production environments. Expert knowledge of Agile approaches to software development and able to put key Agile principles into practice to deliver solutions incrementally. Experience working with cross functional teams. Detail oriented with ability to take Initiative and proactively address problems. Excellent analytical thinking, interpersonal, oral, and written communication skills. Manage work to hit critical project timelines in a fast-paced environment. Preferred Qualification: Financial services industry experience AWS Certified Oracle Certified Basic Qualifications: B-Tech or equivalent degree in engineering 6+ years of relevant experience. About S&P Global Ratings At S&P Global Ratings, our analyst-driven credit ratings, research, and sustainable finance opinions provide critical insights that are essential to translating complexity into clarity so market participants can uncover opportunities and make decisions with conviction. By bringing transparency to the market through high-quality independent opinions on creditworthiness, we enable growth across a wide variety of organizations, including businesses, governments, and institutions. S&P Global Ratings is a division of S&P Global (NYSE: SPGI). 
+
+
+
+14.
+
+Job Responsibilities:
+
+ • Provision MySQL instances, both in clustered and non-clustered configurations 
+
+• Database Administration, Tuning, Backup and Disaster recovery. 
+
+• Ensure performance, security, and availability of databases. 
+
+• Prepare documentations and specifications. 
+
+• Handle common database procedures, such as upgrade, backup, recovery, migration, etc.
+ • Profile server resource usage, optimize and tweak, as necessary. 
+
+• Collaborate with other team members and clients. 
+
+• Follow processes for change control, problems, incidents, service calls and manage the incident/tickets at provided tool.
+ • Should be responsible for Database tuning, Performance tuning, Database troubleshooting that includes rigorous performance checks/root cause/analysis of database instances using provided tools. 
+
+Required Experience: 
+
+• Should have 2+ years of experience working as a MySQL developer and with total experience of 3 to 4 years. 
+
+• Strong proficiency in MySQL database management
+ • Decent experience with recent versions of MySQL 
+
+• Understanding of MySQL’s underlying storage engines, such as InnoDB and MyISAM 
+
+• Experience with replication configuration in MySQL.
+ • Knowledge of de-facto standards and best practices in MySQL 
+
+• Proficient in writing and optimizing SQL statements.
+ • Knowledge of MySQL features, such as its event scheduler 
+
+• Ability to plan resource requirements from high level specifications. 
+
+• Familiarity with other SQL/NoSQL databases such as PostgreSQL, MongoDB, etc. {{if required}} 
+
+• Knowledge of limitations in MySQL and their workarounds in contrast to other popular relational databases
+ • Proficient understanding of code versioning tools such as (Git / SVN) 
+
+
+
+15.
+
+
+Core/Must Have Skills
+
+Good knowledge in Data Warehouse concepts and different schema types like Star and Snowflake
+
+Strong experience in writing complex queries, performance tuning, query optimization and debugging.
+
+Must be proficient in writing PL/SQL procedures, triggers and packages.
+
+Strong experience in writing complex queries, performance tuning, query optimization and debugging.
+
+Good knowledge in DW concepts and experience in any ETL tool.
+
+Experience in Onshore-Offshore delivery model.
+
+Experience in Agile model.
+
+Excellent verbal and written communication skills.
+
+Good To Have Skills
+
+Good knowledge on Oracle database and Proficient in SQL Performance tuning.
+
+Work Schedule
+
+On-premise / Hybrid
+
+Keywords (If any)
+
+Oracle, SQL Server and Data Warehouse
+
+
+
+16.
+
+ Responsibilities: 
+
+ Design, build and deploy effective data integration solutions. 
+ Turn client requirements into technical solution designs 
+ Translate requirements and design technical code 
+ Implement stored procedures, SSIS packages and effective database queries 
+ Identify and test for bugs and bottlenecks in the data integration solution 
+ Design and build of robust reporting solutions from large data sets using either SSRS or data visualization tools such as Qlik 
+ Ensure the best possible performance and quality in the data integration solutions 
+ Provide support and fix issues in the data integration solutions 
+ Monitor and support ongoing operations and regular client deliverables 
+ Be accountable for quality, source control and continuous improvement 
+ Adhere to standards for code development, documentation and version control 
+ Embed test case creation and unit testing in development activities 
+ Evaluate development standards and processes to identify opportunities for improvement. 
+ Stay up-to-date on the latest process and IT advancements to automate and modernize systems. 
+ Actively participate in retrospective and continuous improvement initiatives 
+ Effectively communicate your insights and plans to cross-functional team members and management. 
+ Team with Product Owner and Subject Matter Experts to deliver technology that underpins core services to clients. 
+ Be curious, ask questions and continuously challenge the status quo 
+ Skill Requirements: 
+
+ Writing advanced SQL including some query tuning 
+ Experience in the identification of data quality 
+ Some database design experience is helpful 
+ Experience designing and building complete ETL/SSIS processes moving and transforming data for ODS, Staging, and Data Warehousing 
+ Rendering reports through SSRS 
+ Utilize ad-hoc techniques to perform on-the-fly analysis of data 
+ Proficient in how to deploy to and debug a production data integration environment using SQL Server Data Tools (SSDT) including SSIS packages 
+ Some knowledge of C#/VB.NET, web services and experience with ActiveBatch workload automation a plus 
+ Experience in Agile Scrum methodology for development planning and delivery 
+
+Qualifications And Experience
+
+ Full time Masters/Bachelor’s in Engineering or equivalent from reputed University 
+ 3+ years of problem solving and demonstrated analytical skills 
+ Languages: T-SQL, SSIS Microsoft SSRS, XML, JSON 
+ Excellent communication skills, written and oral - confident in dealing with all levels of clients, both internally and externally 
+ Strong commitment to customer service 
+ High level of attention to detail, ability to execute and deliver project deliverables on budget and on time, and multi-task in a dynamic environment 
+ Comfortable to work with a dynamic team environment where projects, and deadlines often require multi-tasking and flexible work schedules 
+ Self-motivated individuals who can work closely with teams of designers, engineers, and other related personnel while also being able to work independently as needed. 
+
+
+
+17.
+
+Job Description
+
+You Will Work In Sutherland, Hyderabad. You Are Required To Show The Ownership And Responsible For Providing Operational Database Services To The Organization Through Administration, Coordination, Testing And Implementation Of Our Database Management System Using Mysql In A Development Environment. We Are Looking For A Highly Competent And Motivated Individual To Ensure Overall Database Availability, Performance And Maintenance.
+
+Experience Range: Experienced- 5 t0 10 yrs
+
+Education Qualification: Any Graduate Preferably.
+
+Job Overview:
+
+We are looking for An experienced resource for MySQL database developer
+
+You will be working on mission critical applications which run 24/7
+
+who will be responsible for ensuring the performance, availability, and security of MySQL instances. You will also be responsible for Procedures, Triggers, Events and Function of database instances. You will also
+
+work in preparing documentations and specifications as required.
+
+Mandatory Key Technical Skills:
+
+ Proficient in writing and optimizing SQL statements
+ Knowledge of MySQL features, such as its event scheduler
+ Knowledge on Joins ,complex query’s ,subquery’s and CTE.
+ Monitoring database efficiency using profilers.
+ Decent experience with recent versions of MySQL including percona.
+ Understanding of MySQL’s underlying storage engines, such as InnoDB and MyISAM
+ Handle common database procedures, Triggers, Functions, views etc.
+ Knowledge on replication configuration in MySQL
+ Knowledge of limitations in MySQL and their workarounds in contrast to other popular relational data
+
+18.
+
+
+Must Have Skill
+
+Primary knowledge in - MySQL and secondary knowledge in Oracle/ SQL Server/ PL SQL.
+
+Good knowledge of MySQLs underlying storage engines, such as InnoDB and MyISAM.
+
+Good knowledge in Creating Database and tables with proper collation.
+
+Good knowledge in Table design, Queries, Procedures, functions, triggers development.
+
+Good knowledge in Identify bottlenecks in database performance and tuning database and SQL
+
+queries.
+
+Good Knowledge in Optimize MySQL queries, create/maintain database index.
+
+Good Knowledge in Database Backup and Restore concepts.
+
+PREFERRED SKILL (Added Advantage)
+
+Knowledge in Support with DB Server monitoring.
+
+Design, implement, and monitor disaster recovery plans as it pertains to the production
+
+database environment.
+
+Ensure availability, reliability and security of the database in production and staging
+
+environments.
+
+Good Knowledge in Prepare documentations and specifications.
+
+Knowledge of MySQL features, such as its event scheduler.
+
+Perform capacity planning for database growth.
+
+Develop diagrams for data structure entity relationships and data flows.
+
+Prepare reports for databases and customize for specific needs.
+
+Roles & Responsibilities
+
+Ability to plan, create/modify the Database and tables to support for development activity in a
+
+timely manner.
+
+Ability to write the stored procedure, function, trigger.
+
+Ability to create & manage the master tables.
+
+Understanding of complete database architecture.
+
+Understanding of Linux/Centos Server environment.
+Desired Skills and Experience
+MySQL
+
+https://www.linkedin.com/jobs/view/3893273343
+
+
+19.
+
+Key Responsibilities
+
+Plan & implement event triggers that will alert database performance or integrity
+Data definition & controls
+Database schema creation and management
+Test-data creation & management
+Performance measuring and tuning
+Identifying and managing database security issues
+Data warehousing and Cloud based data services expertise is a plus
+
+Technical Skills
+
+Expertise with database design & development - maintain database standards & policies
+Experience in designing data models
+Hands-on experience with RDBMS and No-SQL databases
+Designing database backup, storage strategy etc.
+
+Needed technologies
+
+DBA
+Desired Skills and Experience
+database design, Database Development, RDMS, No-SQL, DBA
+
+https://www.linkedin.com/jobs/view/3893274398
+
+
+20.
+
+Job Responsibilities:
+
+ • Provision MySQL instances, both in clustered and non-clustered configurations 
+
+• Database Administration, Tuning, Backup and Disaster recovery. 
+
+• Ensure performance, security, and availability of databases. 
+
+• Prepare documentations and specifications. 
+
+• Handle common database procedures, such as upgrade, backup, recovery, migration, etc.
+ • Profile server resource usage, optimize and tweak, as necessary. 
+
+• Collaborate with other team members and clients. 
+
+• Follow processes for change control, problems, incidents, service calls and manage the incident/tickets at provided tool.
+ • Should be responsible for Database tuning, Performance tuning, Database troubleshooting that includes rigorous performance checks/root cause/analysis of database instances using provided tools. 
+
+Required Experience: 
+
+• Should have 2+ years of experience working as a MySQL developer and with total experience of 3 to 4 years. 
+
+• Strong proficiency in MySQL database management
+ • Decent experience with recent versions of MySQL 
+
+• Understanding of MySQL’s underlying storage engines, such as InnoDB and MyISAM 
+
+• Experience with replication configuration in MySQL.
+ • Knowledge of de-facto standards and best practices in MySQL 
+
+• Proficient in writing and optimizing SQL statements.
+ • Knowledge of MySQL features, such as its event scheduler 
+
+• Ability to plan resource requirements from high level specifications. 
+
+• Familiarity with other SQL/NoSQL databases such as PostgreSQL, MongoDB, etc. {{if required}} 
+
+• Knowledge of limitations in MySQL and their workarounds in contrast to other popular relational databases
+ • Proficient understanding of code versioning tools such as (Git / SVN) 
+
+Educational Qualifications: 
+
+• Engineering graduate or B. Tech with relevant major subjects like Computer Science.
+
+
+https://www.linkedin.com/jobs/view/3927536669
+
+
+21.
+
+
+Strong proficiency in MySQL database management
+Table design including normalization
+Database backups and recovery is a plus
+Experience with recent versions of MySQL
+Understanding of MySQL’s underlying storage engines, such as InnoDB and MyISAM
+Good Experience with Procedure and events in MySQL
+Experience with replication configuration in MySQL
+Proficient in writing and optimizing SQL statements
+Knowledge of MySQL features, such as its event scheduler
+Knowledge of limitations in MySQL and their workarounds in contrast to other popular relational databases
+Strong MySQL Queries tuning skills
+Write scripts using Shellscript to automate manual administrative tasks
+Maintain backups and perform point-in-time restorations
+Creating tables, alter column, and store procedure.
+Good Experience in Creating index and query optimizing
+Experience in MongoDB to SQL migration
+
+Skills:- MySQL, Databases and InnoDB
+
+
+https://www.linkedin.com/jobs/view/3627625381
+
+
+22.
+
+
+Experience in DB Schemas writing stored procedure,
+
+Experience in PLSQL OR PL/SQL OR Oracle
+
+SQL Server Skills:- PL/SQL, Oracle, Databases and SQL server
+
+https://www.linkedin.com/jobs/view/3656595697
+
+
+23.
+
+
+Job Description
+
+Responsibilities: 
+
+You will be responsible for data integration/data mashing from multiple systems/warehouses to the centralized Heroku Postgres database. Additionally you will conduct development of new Postgres queries/functions/procedures in order to expose data to Salesforce Cloud Platform.
+
+Finally you will be accountable for new data structures creation for current/new data sets coming to Centralized Postgres Database.
+
+Skill Set Requirements:
+
+MUST HAVE
+
+very good working knowledge of SQL and ability to write database procedures/functions in database Procedural Language (for example PL/pgSQL, PL/SQL or T-SQL),
+experience in optimization of complex database queries/procedures, (knowledge about postgres DB tuning and Postgres DB performance optimization would be an asset),
+experience in data integrations across multiple systems/platforms with usage of ETL/ELT tolls ( like Informatica, Oracle Data Integrator, Xplenty, Talend, Pentaho, etc.)
+
+NICE TO HAVE
+
+Good Knowledge of json 
+Experience in working in SOA (Service oriented architecture) environment
+Experience with Oracle (PL/SQL mainly) 
+Bash scripting in Unix\Linux
+Python knowledge
+
+Basic Requirements
+
+Bachelor's degree in computer science (or equivalent experience)
+Experience with SQL/relational databases
+Experience working with DBMS and ETL tools
+Familiarity with Agile approaches to development a plus
+Problem-solving and analytical skills
+
+
+https://www.linkedin.com/jobs/view/3928968906
+
+
+24.
+
+
+Role Summary & Role Description
+
+We are seeking a talented Senior Software Engineer to join our agile team. The successful candidate will play a crucial role in ensuring the quality and reliability of our software products, with a focus on developing Azure-based applications, data warehouse and ETL backend systems. Proficiency in Data Warehousing and Oracle Database is essential for this role.
+
+Candidate must have 8+ years of relevant experience in PL/SQL coding. Candidate must have hands on experience on Azur. Experience in coding PL/SQL Procedures, Triggers and complex SQL queries. Analyze, Design and Code ETL jobs. Create Database Views/materialized views, Indexes, Partitions.
+
+Strong knowledge DW concepts.
+
+Experience in Shell scripting and Autosys/Control-M/Cron scheduling. Ability to communicate with Business users, understand and Analyze requirements and Use Cases. Experience working in Agile Teams. Proven problem solving, communication, interpersonal and analytical skills. Ability to work both independently as well as within a team.
+
+Core/Must have skills
+
+Good knowledge in Data Warehouse concepts and different schema types like Star and Snowflake
+
+Strong experience in writing complex queries, performance tuning, query optimization and debugging.
+
+Must be proficient in writing PL/SQL procedures, triggers and packages.
+
+Strong experience in writing complex queries, performance tuning, query optimization and debugging.
+
+Good knowledge in DW concepts and experience in any ETL tool.
+
+Experience in Onshore-Offshore delivery model.
+
+Experience in Agile model.
+
+Excellent verbal and written communication skills.
+
+Good to have skills
+
+Good knowledge on Oracle database and Proficient in SQL Performance tuning.
+
+Work Schedule
+
+On-premise / Hybrid
+
+Keywords (If any)
+
+Oracle, SQL Server and Data Warehouse
+
+
+https://www.linkedin.com/jobs/view/3938629750
+
+
+25.
+
+
+Responsibilities
+
+Develop and maintain SQL (and NoSQL) databases in Azure, including schema design, stored
+
+procedures and data integrity
+
+Automation of ETL processes with Azure tools
+
+Working with in-house and third-party data providers to build rich data sources for creating
+
+insight
+
+Working with front-end developers and Power BI experts to share and present data and
+
+insights for internal and client use cases
+
+Skills And Qualifications
+
+Minimum of 2 years experience in developing and supporting Stored Procedures
+
+Minimum of 1 year of Azure SQL Database
+
+Minimum of 2 years experience in scripting, functional or procedural programming
+
+Experience withSSISand SSAS a plus
+
+Experience with Multidimensional Cubes, DAX, and MDX scripting a plus
+
+Experience with Power BI a plus
+
+Experience inAzure Data FactoryandAzure Analysis Services isa plus
+
+Excellent English verbal and written communication skills.
+
+Desired Skills and Experience
+Azure SQL Database, SQL Server Analysis Services (SSAS), Azure Analysis Services, SQL Server Integration Services (SSIS), SQL, Power BI, Database Administration
+
+
+https://www.linkedin.com/jobs/view/3893288812
+
+
+
+26.
+
+
+Your Day-to-day Responsibilities Will Include
+
+ Develop the application and features for both iOS and Android using the flutter framework
+ Participate in product and design ideation, and contribute in all phases of the development lifecycle: concept, design, build, deploy, test, release to app stores, and support
+ Lead and set the initial guidelines for tech culture in the company, as we grow
+ Document extensively on Github
+ Ensure architecture and code quality that can scale as the team grows
+ Work on code review, diagnose performance issues, fix bugs
+ Integrate Google APIs.
+
+What We Are Looking For
+
+ Deep knowledge and experience in Flutter and Dart (2+ years)
+ Proficient understanding of code versioning tools such as Git
+ Extensive experience with Firebase Cloud Firestore, Firestore database, Push Notifications, Cloud Functions, etc
+ Familiarity with REST APIs
+ Experience in publishing Flutter apps on the Play Store and App Store
+ Knowledge of complete app structure (from starting to design to publish)
+ You can articulate complicated technical concepts clearly and learn adjacent technologies or coding languages if needed
+
+
+https://www.linkedin.com/jobs/view/3893289253
+
+
+
+27.
+
+
+Database Skillset
+
+Experience working in data driven projects.
+Strong command of SQL and SQL server tools
+strong knowledge of DDL and DML commands, stored procedures, triggers, views etc.
+Implement Monitoring, Logging and Auditing in database for existing processes.
+Advanced knowledge of database security, backup and recovery, and performance monitoring standards
+Develop processes for optimizing database security.
+Performance tuning of database systems.
+Diagnose and troubleshoot database errors.
+Recommend and implement emerging database technologies.
+Create automation for repeating database tasks.
+
+https://www.linkedin.com/jobs/view/3893287604
+
+28.
+
+
+Must have: Redis DB Developer
+JD:
+Skills: Redis DB Developer 
+
+ 1. Understanding of Redis Database
+ 2. Java developer
+ 3. Redis code/script developer, parent child relationship understanding
+ 4. Lua script understanding
+ 5. Lua script developer 6.Troubleshooting Roles &Responsibilities: For this specific position, we are specifically looking for candidates with expertise in Redis Database (in-memory) management or Redis DB server. The ideal candidate should have a minimum understanding of installation or upgradation processes. Additionally, they should be adept at comprehending Redis scripts and capable of developing new scripts using supported languages such as Lua Scripting, Java, Python, JavaScript, and Node.js (any one language) based on project requirements. Having a background knowledge in Database Administration (DBA) and Lua scripting is would be an added advantage, considering the anticipated upgrades and migrations in Redis for our customer. Candidate must able to handle individually the Redis DB and requirements.
+
+
+https://www.linkedin.com/jobs/view/3918692193
+
+
+
+29.
+
+
+Job Overview: The Database Developer is responsible for the designing, construction, updating, maintaining, and implementation of SSIS packages and stored procedures, as well as troubleshooting, analyzing, and resolving issues as they arise.
+
+Key Responsibilities
+
+Perform ETL (Extract, Transform, and Load) tasks
+Work with the Application Development team to write SQL queries and stored procedures.
+Develop and manage SSIS packages.
+Solve database usage issues.
+Work with users and other IT areas to determine ETL needs.
+Involved in logical and physical database design.
+Perform additional duties and responsibilities as required.
+
+Requirements
+
+Minimum of 3 to 5 years’ experience in Microsoft SQL (preferably including SSIS).
+Excellent analytical and organizational skills.
+Prior industry experience in a financial services environment is preferred but not required.
+Candidate should have a bachelor’s Degree.
+
+
+https://www.linkedin.com/jobs/view/3935669332
+
+
+30.
+
+
+We are looking for a Senior Database Developer for SQL DB who can
+
+Draft design specifications and functional documentations for assigned database projects
+
+Design, develop and implement database systems based on clients requirements
+
+Create complex functions, scripts, stored procedures and triggers to support application development
+
+Develop security procedures to protect databases from unauthorized access
+
+Optimize database systems for performance efficiency
+
+Identify issues related to database performance and provide solutions
+
+Perform data back-up and archival on regular basis
+
+Test databases and perform bug fixes
+
+Troubleshoot database related issues in a timely fashion
+
+Required Skill Sets
+
+Experience in developing database projects using SQL Server 2005/2008
+
+Experience in SQL-XML programming
+
+Knowledge of SQL Server Integration Services (SSIS) for ETL and SQL Server Reporting Services (SSRS) for report generation
+
+Experience in Data Modeling, Database design and well versed with SQL Server best practices
+
+Experience on SQL Server Enterprise Database
+
+Experience and knowledge in Query Tuning, Database Tuning, Performance tuning and different indexing methods
+
+Knowledge of XML Extraction and Transformation
+
+Knowledge of XML Databases and Indexing/Search/Lucene
+
+Preferred Skill Sets
+
+Experience in .NET with strong object-oriented design skills
+
+Experience in the latest framework changes, build tools, and libraries
+
+Experience in Unix Shell scripts and using Unix scripting using bash or korn shell
+
+
+https://www.linkedin.com/jobs/view/3912868386
