@@ -1,0 +1,1058 @@
+1. Database Administrator
+Job Description:
+
+ 
+
+An innovative MySQL Database Administrator to assist in developing and creating cutting-edge solutions for the healthcare industry. This is an opportunity to develop and create cutting-edge solutions for our products and services while being part of an extraordinary team. This role will ensure that the business is well-coordinated and productive by managing its processes and coaching its people. The area of responsibility for this role is very wide and thus requires thorough knowledge of various company processes.
+
+
+Who we are…
+
+ It’s simple. We do business differently, by empowering our team to create fresh ideas which impact lives everywhere. We don’t just dream it; we do it every day at Axxess, we bring life-changing technology to healthcare impacting the way people work, learn and grow their business. Our edge does not come from our technology, it comes from our people. We work as one team with a common goal to create shared success benefiting everyone.
+What you will do...
+
+Participate in daily operations to support the business.
+Optimizing database (SQL calls) for max performance
+Collaborate with management in the development of performance goals and long-term operational plans.
+Collaborate in operational processes and performance, recommend solutions for improvement.
+Experience with SQL and stored routines.
+Experience working with HA Proxy, ProxySQL or MaxScale will be a plus.
+Working knowledge with AWS database technologies like Aurora, RDS.
+Monitor day-to-day operational systems and processes that provide visibility into goals, progress, and obstacles for our key initiatives.
+Maintain relationships with all technology team members, external partners, and vendors to provide input regarding operational activity and strategic goals.
+Monitor and analyze key metrics for the day-to-day performance of the operations to ensure efficient and timely completion of tasks.
+Perform technical troubleshooting to diagnose, isolate and correct data and database issues.
+Qualifications
+
+What you bring… 
+
+Required – 10 years of MySQL management experience.
+Required – Experience in MySQL configuring HA and clustering solutions.
+Required – Large scale MySQL deployments.
+Required – MySQL sharding architecture and techniques.
+Ability to work with Linux/Unix based OS Environment.
+MS SQL experience is a plus.
+Software as a service industry experience is a plus.
+Cloud experience is a plus
+Strong communication, interpersonal and professional skills.
+Proven ability to plan and manage the operational process for maximum efficiency and productivity.
+Demonstrated ability to solve problems and anticipate customer needs.
+Demonstrated ability to organize, set, and implement priorities and manage multiple tasks.
+
+
+2.
+
+
+Key Responsibilities:
+Primary responsibilities :-
+
+Installation and configuration of MySQL instances on single or multiple ports. 
+Hands-on experience of working with MysQL 5.7 and MySQL 8.
+Clear understanding of MysQL Replication process flows , threads , setting up multi node clusters and basic troubleshooting. 
+Understanding of at least one of the backup and recovery methods for MySQL . 
+Strong fundamentals of SQL and able to understand and tune complex SQL queries when needed. 
+Strong fundamentals on the linux system side and monitoring tools like top , iostats , sar etc. 
+At Least couple of years of production hands on experience on medium to big sized MySQL databases. 
+Setting up and maintaining users and privileges management system and troubleshooting relevant access issues. 
+Some exposure to external tools like Percona , ProxySQL , HAP etc. 
+Understand the transaction flows and ACID compliance. 
+Basic understanding of networking concepts .
+Performing on-call support and should be able to provide the first level support . 
+Excellent verbal and written communication skills. 
+Strong shell scripting skills . Good to have Python . 
+Secondary responsibilities. :-
+
+Able to configure and setup NOSQL databases like Mongodb and Cassandra. 
+Ability to learn new technologies along with a team and a positive outlook to understand problems from the business point of view. 
+Qualifications:
+
+Bachelor's degree in Computer Science, Information Technology, or a related field (or equivalent experience).
+Proficiency in database management systems such as , MySQL or NoSQL databases.
+SQL programming and database design skills.
+Knowledge of database performance tuning and optimization techniques.
+Familiarity with database security best practices.
+Scripting and automation skills (Good to have- Python).
+Good problem-solving and analytical skills.
+Excellent communication and teamwork skills.
+
+
+
+3.
+
+
+The Role:
+
+Database Administrator is critical to the project’s overall success, right from planning to supporting primary KPI as customer satisfaction and productivity. 
+
+
+
+Responsibilities
+
+Ensure the reliability, performance, and scalability of our database infrastructure.
+Work closely with application teams to ship solutions that integrate seamlessly with our database systems.
+Analyzed solutions and implement best practices for supported datastores(Primarily MySQL , PostgreSQL).
+Develop and enforce best practices for database security, backup, and recovery.
+Work on the observability of relevant database metrics and make sure we reach our database objectives.
+Provide database expertise to engineering teams (for example through reviews of database migrations, queries and performance optimization).
+Work with peers(DevOps, Application Engineers) to roll out changes to our production environment and help mitigate database-related production incidents.
+Work on automation of database infrastructure and help engineering succeed by providing self-service tools.
+OnCall support on rotation with the team.
+Support and debug database production issues across services and levels of the stack.
+Document every action so your learnings turn into repeatable actions and then into automation.
+Perform regular system monitoring, troubleshooting, and capacity planning to ensure scalability.
+Create and maintain documentation on database configurations, processes, and procedures.
+
+
+Requirements
+
+Have at least 2-4 years of experience running MySQL/PostgreSQL databases in large Environments.
+Awareness of cloud infrastructure (AWS/GCP).
+Have knowledge of the internals of MySQL/PostgreSQL.
+Knowledge of load balancing solutions such as ProxySQL to distribute database traffic efficiently across multiple servers.
+Knowledge of tools and methods for monitoring database performance.
+Strong problem-solving skills and ability to work in a fast-paced environment.
+Excellent communication and collaboration skills to work effectively within cross-functional teams.
+
+
+The Nice-to-Haves
+
+Knowledge of caching (Redis / Elasticache)
+Knowledge on scripting languages (Python)
+Knowledge of infrastructure automation (Terraform/Ansible)
+Familiarity with DevOps practices and CI/CD pipelines.
+
+
+
+4.
+
+
+Roles and Responsibilities
+
+Managing availability, performance, capacity and security of database infrastructure like
+MySQL
+Aerospike
+Couchbase
+Elasticsearch
+Cassandra
+ScyllaDB
+MongoDB
+RocksDB
+PostgreSQL
+Building and implementing observability for databases health/performance/capacity.
+Optimizing On-call rotations and processes.
+Documenting “tribal” knowledge. 
+Conversant with concepts related to RDBMS and NoSQL databases
+Conversant with Object Relational Mapping technology
+Providing help in onboarding new databases and clusters with the production readiness review process.
+Developing tools to manage Database infrastructure at scale.
+Providing reports on services SLO/Error Budgets/Alerts and Operational Overhead.
+Working with Dev and Product teams to define SLO/Error Budgets/Alerts for databases.
+Working with the Dev team to have an in-depth understanding of the application data models and advising to choose the right database.
+Identifying observability gaps in database services, infrastructure and working with stake owners to fix it.
+Managing Outages and doing detailed RCA with developers and identifying ways to avoid that situation.
+Managing/Automating upgrades of the database infrastructure services.
+Automate toil work.
+
+
+Experience & Skills
+
+
+
+4+ Years of experience as a Database Reliability Engineer on large scale databases like MySQL, Cassandra, ScyllaDB, Aerospike, Elasticsearch, RocksDB, Couchbase ,MongoDB. 
+A collaborative spirit with the ability to work across disciplines to influence, learn, and deliver.
+A deep understanding of computer science, networking and databases concepts.
+Demonstrated experience with languages, such as Python, Bash etc.
+Extensive experience with Linux administration and good understanding of the various linux kernel subsystems (memory, storage, network etc). 
+Extensive experience in DNS, TCP/IP, UDP, GRPC, Routing and Load Balancing.
+Expertise of Amazon Web Services (AWS) and/or other relevant Cloud Infrastructure solutions like Microsoft Azure or Google Cloud.
+Expertise in GitOps, Infrastructure as a Code tools such as Terraform etc is plus.
+Experience in managing and deploying containerized environments using Docker, Mesos/Kubernetes is a plus.
+
+
+
+5.
+
+
+
+The Role:
+
+Take-Two Interactive is seeking an aspiring Database Administrator. As a Database Administrator, you will provide support over critical projects as part of our strategy to expand our database service offerings. As part of the larger Take-Two Data Management team, you will be responsible for supporting, maintaining, and further improving the use of MySQL, Postgres, Amazon RDS, Amazon Redshift, Snowflake and NoSQL databases to provide a stable, impactful, and cost-efficient storage platform that supports a variety of large scale online social games and complex applications.
+
+Role Responsibilities:
+
+ Handle database systems in cloud and on-premises environments.
+ Maintain data integrity and high availability of database systems.
+ Run configurations for MySQL and other database systems.
+ Triage, fix, or escalate system and database issues.
+ Update and tune database systems in high load environment.
+ Work with Game and Application teams for design, problem solving and standard methodologies.
+ Work with Operations to handle database hardware infrastructure.
+ Participate in on-call rotation.
+ Document systems and procedures.
+ Use and write automation and reporting tools to handle databases.
+ Identify and recommend tools and services for running infrastructure.
+ Automate systems and deployment procedures.
+ Analyze and develop capacity planning for database growth.
+ Evaluate hardware requirements for database loads based on efficient use of multi-core systems.
+
+Required Skills:
+
+ 4-6 years RDBMS experience working in a high-volume production environment.
+ At least 2+ years as a MySQL DBA in a LAMP environment.
+ Excellent knowledge in various aspects of MySQL 5.x - 8.x (Innodb, MyISAM, replication, analyzing slow queries, schema changes with and without locking, backups and restores).
+ Experience in AWS cloud, especially RDS/Aurora.
+ Experience in Performance Tuning.
+ Experience of cloud-based data warehouse systems, like Redshift or Snowflake is highly desirable.
+ Knowledge of NoSQL solutions.
+ Proven knowledge of physical and logical database design.
+ Experience with Nagios, Collectd, Grafana and DataDog.
+ Familiarity with JSON, YAML and Chef.
+ Proficiency in writing automation scripts using Shell, or Python.
+ Knowledge of Subversion, Git or other source code version control and repository tools.
+ Broad exposure to Open-Source tools for automation, monitoring, and provisioning.
+ Ability to work well under pressure.
+ Experience in working cross-functionally across many groups.
+ Excellent time management skills.
+ Must be self-motivated.
+ Ability to work in a fast-paced environment.
+ Excellent verbal and written communication skills.
+
+Good-to-have skills:
+
+ Experience in Postgres.
+ Experience in NoSQL solutions like Couchbase, Redis or MongoDB.
+ Experience in provisioning servers using Terraform, JSON, YAML and Chef.
+ Understanding and troubleshooting of network aspects like Firewall rules, Security Groups etc.
+ Database sharding.
+
+
+
+6.
+
+
+Key responsibilities:
+
+Database Performance and Reliability: Monitor, tune, and maintain the performance of our database systems, identifying and resolving any issues to reduce downtime and avoid service disruptions.
+Automation and Optimization: Design, implement, and oversee automated systems and processes to enhance the scalability of our database architecture and support our growing customer base.
+Scalability and Efficiency: Design, implement, and manage database systems that can scale efficiently with the growing needs of our customer base. Optimize query performance and adjust configurations to enhance database efficiency and response times.
+Backup and Recovery: Develop and oversee robust backup and recovery strategies, ensuring data preservation and quick recovery in case of data loss or system failures.
+Capacity Planning: Conduct regular capacity planning to manage database growth effectively and forecast future database requirements.
+Database Upgrades and Patches: Manage the implementation of database updates, upgrades, and patches to ensure the use of current technologies and to maintain database performance and security.
+Monitoring and Alerting: Develop and maintain comprehensive monitoring and alerting systems to provide immediate insights into database health and performance.
+Documentation: Keep precise documentation of database architecture, processes, and procedures, facilitating knowledge transfer and streamlining the onboarding of new team members.
+
+
+About You:
+
+Bachelor's degree in Computer Science, Engineering, or a relevant field.
+At least 2+ years of proven experience as a Database Administrator or a similar role, with a strong track record in managing sophisticated, large/medium-scale database environments.
+Proficiency in database administration, performance tuning, and troubleshooting for MySQL.
+Experience with Linux administration and shell scripting.
+Deep understanding of database provisioning and maintenance, preferably within virtualized environments.
+Familiarity with database monitoring tools such as Grafana/PMM, Prometheus.
+Solid skills in database query languages and scripting, with the ability to automate routine tasks and optimize database operations.
+Knowledgeable in networking, security best practices, and optimizing database performance.
+Exceptional problem-solving abilities and the capacity to excel in a dynamic, collaborative atmosphere.
+Excellent communication skills for effective collaboration with both technical and non-technical stakeholders.
+Autonomy in work style with a passion for maintaining high-quality database systems.
+Open and willing to take on additional responsibilities and gradually transition into a Site Reliability Engineer (SRE).
+
+
+7.
+
+
+Roles & Responsibility 
+The MySQL Database Administrator (DBA) is responsible for providing database technical support for ALL client databases in multi-environment (production to non-production). 
+It is extremely important to understand and be aligned to the ITIL process while delivering the Operational support service to our client. 
+Some of the primary responsibilities of this role would include owning, tracking and resolving database related incidents and requests, fulfilling requests and resolving incidents within SLAs 
+Reviewing service related reports (e.g: database backups, maintenance, monitoring) on a daily basis to ensure service related issues are identified and resolved within established SLAs 
+Responding to database related alerts and escalations and working with database engineering to come up with strategic solutions to recurring problems. 
+This role requires a service oriented, high sense of ownership of the problems and requests assigned, focus on managing and resolving issues in alignment with the SLAs. 
+ 
+
+ Required Skills & Qualification  
+Strong experience in Database Administration in MySQL (version 5.6 & 5.7 ) 
+Experience in troubleshooting and resolving database integrity issues, performance issues, blocking and deadlocking issues, Slave replication issues, backup & recovery issues, connectivity issues, security issues, etc. 
+Experience in Performance Tuning, Query Optimization and related monitoring and troubleshooting tools. 
+Ability to detect and troubleshoot MySQL related Waits, CPU, Memory, I/O, disk space and other resource contention. 
+Strong work experience on Slave Replication. 
+Strong knowledge of how indexes, index management, integrity checks, configuration, patching.
+
+
+
+8.
+
+
+Key Responsibilities:
+
+1. Database Administration: Manage, monitor, and maintain PostgreSQL database systems to ensure optimal performance, reliability, and security.
+2. Performance Tuning: Proactively identify and address performance bottlenecks and optimize SQL queries and database configurations for improved efficiency.
+3. Backup and Recovery: Develop and implement robust backup and recovery strategies to safeguard data integrity and minimize downtime in case of system failures.
+4. High Availability and Disaster Recovery: Design, implement, and manage high availability (HA) and disaster recovery (DR) solutions, such as replication, clustering, and failover mechanisms.
+5. Security: Implement and enforce security policies and access controls to protect sensitive data against unauthorized access, data breaches, and other security threats.
+6. Capacity Planning: Monitor database growth trends and plan for future capacity requirements by scaling resources and infrastructure as needed.
+7. Automation and Scripting: Develop automation scripts and tools to streamline database administration tasks, deployments, and maintenance processes.
+8. Database Upgrades and Patching: Plan and execute database upgrades, patches, and migrations in coordination with the development and operations teams to ensure minimal disruption to business operations.
+9. Documentation: Maintain comprehensive documentation of database configurations, procedures, and best practices for reference and knowledge sharing.
+10. Collaboration: Work closely with developers, system administrators, and other stakeholders to troubleshoot database-related issues, provide technical guidance, and support application development and deployment efforts.
+Requirements:
+
+· Bachelor’s degree in Computer Science, Information Technology, or a related field (or equivalent experience).
+· Proven experience as a PostgreSQL Database Administrator or similar role in a production environment.
+· In-depth knowledge of PostgreSQL architecture, configuration, performance tuning, and troubleshooting.
+· Proficiency in SQL and database query optimization techniques.
+· Experience with database backup and recovery solutions, including point-in-time recovery (PITR) and disaster recovery planning.
+· Familiarity with database security best practices and regulatory compliance requirements (e.g., GDPR, HIPAA).
+· Strong scripting skills (e.g., Bash, Python) for automation and task orchestration.
+· Experience with database migration, replication, clustering, and high availability solutions (e.g., PostgreSQL replication, Patroni, Pgpool-II).
+· Excellent communication and collaboration skills, with the ability to work effectively in a cross-functional team environment.
+Preferred Qualifications:
+
+· PostgreSQL certification (e.g., PostgreSQL Certified Administrator).
+· Experience with other database technologies (e.g., MySQL, Oracle, MongoDB).
+· Knowledge of cloud platforms and database services (e.g., AWS RDS, Google Cloud SQL, Azure Database for PostgreSQL).
+· Familiarity with DevOps practices and tools (e.g., Docker, Kubernetes, Terraform).
+· Experience with performance monitoring and diagnostic tools (e.g., pg_stat_statements, pgBadger, pg_top).
+
+
+9.
+
+
+Responsibilities:
+
+Design, install, configure, and maintain various database management systems (DBMS), including PostgreSQL database systems on-premises and/or in the AWS cloud environment, to meet organizational data needs.
+Ensure optimal performance, scalability, and security across all database platforms.
+Implement robust disaster recovery plans and perform regular backups to safeguard data integrity.
+Monitor database activity, identify and troubleshoot performance issues to optimize data access and retrieval.
+Manage user access and permissions across databases to enforce data security protocols.
+Automate database tasks and scripting for improved efficiency and reduced manual workload.
+Collaborate with developers and analysts to understand data requirements and design effective data storage and retrieval solutions.
+Partner with data engineers to design and implement data pipelines for seamless data movement and transformation.
+Stay up-to-date on the latest advancements in database technologies, data engineering practices, and best practices.
+Qualifications:
+
+Proven experience of 8+ years as a Database Administrator with a strong focus on PostgreSQL and strong understanding of database administration principles.
+Solid understanding of database concepts, data modeling principles and data security best practices.
+Experience working with cloud-based database management services (AWS, OCI) 
+Familiarity with data engineering principles and practices, including data extraction, transformation, and loading (ETL) processes.
+Working knowledge of SQL and proficiency in writing complex queries for data manipulation and retrieval.
+Familiarity with Oracle and Cassandra databases (a plus).
+Excellent analytical and problem-solving skills.
+Strong communication and collaboration skills to work effectively with cross-functional teams (developers, analysts, data engineers).
+Meticulous attention to detail and a commitment to accuracy.
+
+
+10.
+
+
+Job Description:
+
+10+ years of experience in a senior engineering or technical lead role
+2+ years of experience with at least one of the following languages/frameworks: PowerShell, Python
+Solid understanding of database security concepts, capacity planning, high availability, and disaster recovery, backup , restore and native SQL Server Replication.
+Provide the root cause analysis of the major incidents/problems
+Experience in T-SQL and a power shell script for SQL Server maintenance and monitoring.
+Experience in Managing Alerts and Notifications.
+Experience in managing Critical incidents and first response
+Work with peer SREs to roll out changes to our production environment and help mitigate database-related production incidents.
+Experience in supporting and debugging database production issues across services and levels of the stack.
+Ready to work the 24x7 shift.
+Troubleshoot Server, Network, or User Connectivity Issues
+Experience in troubleshooting Performance Issues (Database Settings, Optimizing queries, Altering Indexes, ETL Development, etc.)
+Proven experience in automating operational and manual database tasks 
+Strong written and oral communication skills with a high degree of comfort speaking with developers, vendors and leadership
+
+
+
+
+What percentage of engineering and support roles is required?
+
+The role requires 100% of the time in the support role, but if there are no issues with the systems, then the support time can be used for engineering work.
+What skills are required as Good to have?
+
+Knowledge of PostgreSQL
+Have an understanding of GCP Cloud infrastructure
+Experience with tools like DataDog, Grafana, DPA, Etc.
+Experience with Infrastructure as a Code
+
+
+11.
+
+
+Responsibilities
+
+A day in the life of an Infoscion.
+
+
+• As part of the Infosys project management team, your primary role would be to take end-to-end bottom-line responsibility for a Project.
+• You will lead the proposal preparation, review the project estimations, capture inputs from key stakeholders to position Infosys suitably in order to seal the deal.
+• You will schedule assignments, monitor, review and report project status regularly in order to manage project risks and ensure successful project delivery and implementation.
+• You will also coach and create a vision for the team, provide subject matter training for your focus areas, motivate and inspire team members through effective and timely feedback and recognition for high performance.
+• You would be a key contributor in creating thought leadership within the area of technology specialization and in compliance with guidelines, policies and norms of Infosys.
+If you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you!
+
+
+Additional Responsibilities:
+
+• Project Management fundamentals
+• Project Lifecycles on development & maintenance projects, estimation methodologies, quality processes.
+• Knowledge of one or more programming languages; knowledge of architecture frameworks, and design principles; ability to comprehend & manage technology, performance engineering.
+• Domain – Basic domain knowledge in order to understand the business requirements / functionality.
+• Ability to perform project planning and scheduling, manage tasks and coordinate project resources to meet objectives and timelines
+• Ability to work with business and technology subject matter experts to assess requirements, define scope, create estimates, and produce project charters
+• Good understanding of SDLC and agile methodologies is a pre-requisite
+• Awareness of latest technologies and trends
+• Logical thinking and problem-solving skills along with an ability to collaborate.
+
+
+Technical and Professional Requirements:
+
+• Primary skills: sql dba
+
+
+
+12.
+
+
+
+JD- As a MySQL DBA and Tech Lead to work in Production support project. Associate with excellent communication and analytical skills. To be able to work independently with stakeholders to create and maintain MySQL DBs on AWS cloud, 
+
+
+
+Complete Hands on experience in below areas:
+Working knowledge on Unix OS assets on AWS Cloud. 
+
+Installing MySQL versions both community and enterprise version and connect to front end application. Well versed with MySQL workbench.
+Problem solving and troubleshoot issues in all environments - development, test and production
+Deployments and Operations
+User access management
+Securing databases and data in database
+To define and follow Project plan and Operational policies in compliance with ISG
+Backup and Restoration drills
+Monitoring resource utilization and server and services health checks
+
+
+
+13.
+
+• Proficient understanding of MongoDB architecture, encompassing its core features and capabilities.
+• Expertise in deploying MongoDB on various server environments, fine-tuning configurations for peak performance.
+• Vigilant monitoring of MongoDB clusters to ensure robust health and performance, while swiftly pinpointing and resolving any bottlenecks.
+• Strategic development of backup and recovery protocols, safeguarding data integrity and ensuring continuous availability.
+• Establishment of stringent access controls, authentication procedures, and encryption standards to fortify the security of the MongoDB ecosystem.
+• Proactive assessment of MongoDB's resource demands, meticulously planning for scalable expansion aligned with organizational growth.
+• Diligent identification and rectification of database anomalies, addressing issues such as performance dips, connectivity interruptions, or data inconsistencies.
+
+
+
+14.
+
+
+
+Must-Have
+MS SQL Database Administration including below activities
+ 
+Installation and configuration of new database servers and instances
+ 
+Installation/Setup database cluster, Always availability (AG) Setup
+ 
+Installation/Setup of database replication/log-shipping.
+Experience in upgrade from SQL 2012 to latest SQL version
+ 
+Performance tuning troubleshooting and resolution
+ 
+Job migration from SQL 2012 to SQL 2016
+ 
+Perform database user creation and managing its roles and privileges
+ 
+Keeping Compliance to PCI Standards
+ 
+Applying DB Patches on database instances
+ 
+Troubleshooting Database issues
+Good-to-Have
+Powershell scripting
+ 
+Rubrik Knowledge.
+ 
+Communication Skills
+Good-to-Have
+ 
+Advanced troubleshooting skills, applying theoretical knowledge.
+ 
+Experience in critical upgrade projects
+ 
+Managing Azure SQL Databases and AWS RDS Instances.
+
+
+15.
+
+
+Key points to consider 
+
+ 
+SQL Server DBA duties and responsibilities
+Manage SQL Server databases
+Configure and maintain database servers and processes
+Monitor system's health and performance
+Ensure high levels of performance, availability, sustainability and security
+Analyze, solve, and correct issues in real time
+Provide suggestions for solutions
+Refine and automate regular processes, track issues, and document changes
+Assist developers with query tuning and schema refinement
+Provide 24x7 support for critical production systems
+
+
+16.
+
+
+Responsibilities :
+
+
+Manage daily DB Administration activities, installation, and configuration of SQL Servers
+Configure and monitor AlwaysOn/Clustering/Log Shipping/Replication
+Install, configure, and manage SQL clusters (FCI, AG, DAG)
+Manage backup and restores (Native and via third party tools like Rubrik) 
+Proficient in using T-SQL, troubleshooting queries and stored procedures. 
+Performance Tuning and problem resolution for root cause
+Code migration among different environments
+Implement DB security
+Support and participate in 24x7 oncall rotation.
+Exposure to Azure services such as Azure Data Factory, Azure Databricks and Azure Data Lake Storage will be an added plus. Candidate should preferably be skilled in performing all Cloud administration tasks.
+Creating schemas and assigning permissions to AAD groups across Azure Databricks.
+Troubleshooting ADF pipeline failures and identifying RCA. Configuring triggers and setting schedules.
+Work with teams in generating PAT tokens and renewing them as needed. Manage secrets in AKV (Azure Key Vaults)
+Familiarity with roles and assigning appropriate RBAC permissions to AAD groups against Azure Datafactories.
+Exposure with creating runbooks using Azure automation accounts and scheduling them.
+Restoring SQLMI backups from Azure blob storage and assign permissions to AAD groups.
+Manage SPN’s used in Linked Services and passwords.
+Experience with Oracle 19c administration tasks (L2 production support), exposure with RMAN will be beneficial.
+
+
+Qualifications :
+
+
+2-4 years experience in SQL 2014/2016/2017/2019 administration
+Bachelor's degree or equivalent combination of education/experience
+Good working knowledge with SSIS, SSRS (bonus with PowerBI)
+In-depth understanding of SQL architecture
+Experience with replication topologies and components
+Expert knowledge in SQL clustering and availability groups
+Experience in both OLTP and Data warehousing environments
+Good experience implementing operational automation through SQL tools and PowerShell
+Experience troubleshooting Kerberos issues
+Experience with TDE encryption of databases
+Good experience with Azure Cloud support \ migration tasks (preferred)
+
+
+
+17.
+
+
+Role & Responsibilities:
+ 
+• Handle large database estates and managed TB size of databases 
+
+• Define backup and restore strategy
+• Should have experience in Database Migration and up gradation and should be aware of the pre and post steps.
+• Proactively analysis the performance and tuning recommendation
+• Should be worked on High Availability Features (Always on, Replication, DB Mirroring, Log Shipping & DB Clustering) 
+
+ and should have good troubleshooting experience
+• Building rebuilding indexes, defragment indexes and update statistics
+• OS level activities related to database tasks and windows administration
+• Coordinate and work with vendors for bug fixes and major incident resolution
+• Should be able to understand Query execution plan, SQL Profiler Windows performance counters 
+
+• Creating, scheduling and Monitoring SQL Server Jobs
+• Managing SQL Server security and logins (Assigning Server/Database roles & schemas)
+• Knowledge on Database Security Management
+ 
+ 
+Technical Skills:
+ 
+• Strong installation and database administration experience on 2014 / 2012 / 2008 R2 and 2005
+• Strong experience on log shipping, mirroring and replication, AOAG
+• Design and implement cluster high availability solution (Active-Active/Active-Passive)
+• Strong experience in performance tuning and troubleshooting 
+
+• PowerShell /DB scripting and automate routine tasks
+• Experience windows administration on database activities
+• Experience in SSL certificate issues
+
+
+
+18.
+
+
+What will you be doing?
+
+
+
+Deploy databases with high-security standards. 
+Manage backup and recovery to comply with defined policies.
+Collaborate with stakeholders and refine the logical design so that it can be translated into a specific data model; further refine the physical design to meet system storage requirements.
+Support product team for their Database needs.
+Monitor the performance and optimize the databases to provide fast responses.
+Strong command of SQL and SQL Development
+Write database documentation, including data standards, procedures, and definitions for the data dictionary (metadata)
+Control access permissions and privileges
+Develop, manage, and test backup and recovery.
+Ensure that storage and archiving procedures are functioning correctly.
+Carry out capacity planning.
+Communicate regularly with technical, applications, and operational staff to ensure database integrity and security.
+Commission and install new databases and customize them in order to make them fit for the purpose.
+
+
+We’d love to hear from you if you have:
+
+
+
+Bachelor’s degree in computer science or a related field
+At least five years of experience in database administration
+Experience with Linux Server environments is essential
+Extensive experience with RDBMS database technologies MySQL and MariaDB/ Postgres
+Extensive experience with NOSQL database technologies. MongoDB highly preferred
+Experience in working with Cloud Databases (Amazon RDS, Aurora)
+Experience in working with HA and DR database setups.
+Knowledge of scripting languages - Shell / Python for automation tasks
+Knowledge of DAM (Database Activity Monitoring) tools a plus 
+Experience with cloud services (AWS, Microsoft Azure) a plus
+Good communication, teamwork, and negotiation skills
+Familiarity with the main data manipulation languages and the principles of database design
+Ability to work to tight deadlines under pressure
+Good organisational skills
+Flexibility and adaptability
+Ability to create and maintain strong working relationships with colleagues and customers
+An understanding of information legislation, such as the Data Protection Act.
+
+
+
+19.
+
+
+Responsibilities
+
+Installation, administration and maintenance of multiple SQL Server instances.
+Setup environments for use within the end to end software delivery lifecycle.
+Define, design & implement control procedures.
+Backup monitoring and continuous review of the backup strategy.
+Troubleshoot and resolve issues quickly.
+Performance monitoring and tuning.
+Query tuning (Index maintenance and management, housekeeping, memory, CPU, Disk I/O etc.)
+Planning and execution of Service Pack upgrades.
+Work alongside project teams (analysts, developers, testers and implementation managers) during software release and patching.
+Adhere to change management procedures.
+Working closely with other team members.
+Complete structured and systematic testing.
+Track and report on regular tasks executed to ensure system availability maintaining a continuous improvement roadmap.
+Pro-actively identify productivity opportunities.
+Ensure correct procedures are adhered to as tasks are being progressed.
+Experience in a Windows based 24/7 environment including 1st/2nd line support.
+Involved in the design and build of new systems, including high-availability and disaster recovery solutions. 
+
+Senior DBA- 6+Years –> DBA -2
+ Create‌ ‌and‌ ‌manage‌ ‌multiple‌ ‌databases‌ ‌and‌ ‌assist‌ ‌in‌ ‌capacity‌ ‌planning.‌ ‌
+ Monitor,‌ ‌maintain‌ ‌database‌ ‌systems‌ and‌ ‌troubleshoot‌ ‌problems‌ ‌that‌ ‌may‌ ‌arise.‌ ‌
+ Maintain‌ ‌data‌ ‌integrity‌ ‌and‌ ‌security‌ ‌(manage‌ ‌roles‌ ‌and‌ ‌permissions‌ ‌of‌ ‌database‌ ‌users).‌ ‌
+ Develop‌ ‌strategies‌ ‌and‌ ‌implement‌ ‌solutions‌ ‌for‌ ‌managing‌ ‌back-ups,‌ ‌restoration‌ ‌and‌ ‌replication‌ ‌&‌ ‌create,‌ ‌manage‌ ‌constraints‌ ‌and‌ ‌indexes.‌ ‌
+ Support‌ ‌software‌ ‌developers‌ ‌with‌ ‌database‌ ‌operations‌ ‌including‌ ‌the‌ ‌development‌ ‌of‌ ‌ complex‌ ‌SQL,‌ ‌tuning‌ ‌of‌ ‌DML‌ ‌and‌ ‌the‌ ‌creation‌ ‌of‌ ‌stored‌ ‌procedures.‌ ‌
+ Create‌ ‌detailed‌ ‌documentation‌ ‌including‌ ‌diagrams‌ ‌of‌ ‌database‌ ‌infrastructure.‌ ‌
+ Learn‌ ‌relevant‌ ‌business‌ ‌processes‌ ‌and‌ ‌understand‌ ‌the‌ ‌data‌ ‌flow,‌ ‌criticality‌ ‌and‌ ‌dependencies.‌ ‌
+ Effectively‌ ‌coordinate‌ ‌and‌ ‌communicate‌ ‌with‌ ‌all‌ ‌the‌ ‌stakeholders‌ ‌(internal‌ ‌teams‌ ‌and‌ ‌ ‌ clients)‌ ‌&‌ ‌set‌ ‌up‌ ‌and‌ ‌maintain‌ ‌database‌ ‌infrastructure‌ ‌for‌ ‌the‌ ‌company’s‌ ‌BI‌ ‌needs.‌ ‌
+
+
+20.
+
+Roles and responsibilities:
+
+Experience with AWS RDS Databases, Atlassian MongoDB
+Develop, Configure and keep up database processes for applications.
+Knowledge of the logging, monitoring, database health, and performance features.
+Work with developers to offer suggestions for improving schema and query optimization.
+Create best practices for cloud database operations.
+Monitors user access and performance of the database systems.
+Real-time problem-solving and correction analysis
+Perform after-hours scheduled maintenance and support activities for release deployment of production systems.
+Perform database backup and recovery using native cloud tools
+
+
+Requirements:
+
+Degree in Information Technology or equivalent
+At least 5+ years of relevant work experience is required.
+Strong organizational skills as the team will be working on multiple projects simultaneously.
+Experience with Performance Tuning and Optimization.
+Knowledge of indexes, index management, statistics, data-at-rest encryption, secure connectivity
+Experience writing and executing stress tests on databases and services.
+Experience with databases, SQL, and ETL processes.
+Experience with backups restores and recovery models.
+Comfortable adapting to changing business situations and priorities.
+Experience working in AWS, Snowflake, Big query.
+Experience with automation, Terraform, Terragrunt.
+Excellent written and verbal communication skills.
+Proficiency in English
+
+
+
+21.
+
+
+Must-Have:
+
+
+
+
+
+manage and maintain (lifecycle) of database system above OS Level; minor releases are included whereas major upgrades will follow change management processes.
+Monitor and ensure the availability of databases according to Service Levels applicable per application and environment, as set out in the list of applications in this SOW .
+Configure and optimize databases performances periodically based on statistics and recalculations (incremental / full) including:
+Health-checking, tune and optimize database
+Perform database entities creation, update, and deletion (tables, index, table spaces, data file)
+Perform table and index reorganization
+Administer database optimizer
+Analyze and optimize SQL queries executions
+Perform 2nd Level Support activities such as incident & problem analysis and determination including collecting diagnostic information and liaising with third-party suppliers
+Incident and Problem Management in the case of events, execute defined runbooks (SOP), create incident tickets, triaging and routing to appropriate support team according to the SOP
+Decommission database components under TCS service responsibility in accordance with the security measures agreed
+Provide forecast information about relevant metrics affecting capacity and performance such as number of users, business transactions, etc.
+Automating database operations such as, but not limited to, deployments, monitoring, alerting and ticket creation.
+Backing up the database including archive log files according to backup retention policy
+Restoring the database from backup
+Restore points along with Flashback Database
+Managing full and incremental backups
+Backups to a media manager on data systems
+
+
+
+
+
+22.
+
+
+Role & Responsibilities
+
+Design, implement, and manage MySQL databases.
+Optimize database performance through query optimization, indexing, and other techniques.
+Troubleshoot database and application errors, and provide timely resolutions.
+Stay updated with the latest trends and technologies in MySQL, and database management.
+Document database designs, architecture, and processes.
+Design and implement cron jobs for automated tasks, such as database backups, data synchronization, and routine maintenance.
+Schedule cron jobs efficiently to minimize system impact and ensure smooth operation.
+Monitor cron job execution and troubleshoot any failures or errors.
+Optimize cron job performance and resource utilization.
+
+Requirements
+
+Bachelor’s degree in Computer Science, Information Technology, or related field.
+Proven experience as a MySQL Database Administrator or Developer.
+Strong proficiency in SQL and database management tools.
+Hands on Experience with database design, normalization, and optimization.
+Familiarity with MySQL replication, clustering, and high availability solutions.
+Experience with cron job scheduling on Unix/Linux systems.
+Proficiency in shell scripting and automation tools.
+Excellent problem-solving and analytical skills.
+Strong communication and collaboration skills.
+Ability to work effectively in a fast-paced environment and manage multiple tasks simultaneously.
+Attention to detail and a passion for ensuring data integrity and system reliability.
+
+Preferred Qualifications
+
+Experience with cloud-based database solutions (e.g., AWS RDS, Google Cloud SQL).
+Familiarity with version control systems (e.g., Git).
+Understanding of DevOps practices and methodologies.
+
+
+23.
+
+Job Description:
+
+
+
+Determines database structural requirements by analyzing client operations, applications, and programming; reviewing objectives with clients; evaluating current systems; 
+Develops database solutions by designing proposed system; defining database physical structure and functional capabilities, security, back-up, and recovery specifications.
+Installs database systems by developing flowcharts; applying optimum access techniques; coordinating installation actions; documents actions.
+Perform day-to-day database administration and performance monitoring tasks
+Resolves database performance issues, database capacity issues, replication, and other distributed data issues.
+Ensure availability, performance, security, and operational efficiency.
+Ensure the recoverability of all production data for operational and business continuity needs
+Participate in Oracle ERP applications databases systems design and operations
+Manage and monitor SLAs for uptime and performance of the Oracle production environment.
+Perform root cause analysis, and resolution, for Oracle incidents
+Under limited supervision executes the responsibilities of the job and ensures that commitments and deliverables are met.
+Creates, develops, and reviews the physical data model created from the logical data model. Creates and implements the physical database design and structures.
+Actively participates in supporting test plans, test environments, benchmarks and statistics.
+Assist with the development of the technical architectures. Ensures the database management systems and tools support the defined architectures and business needs.
+Designs logical and physical databases or reviews description of changes to database design to understand how changes to be made affect physical database (how data is stored in terms of physical characteristics such as location, amount of space, and access method).
+Establishes physical database parameters.
+Calculates optimum values for database parameters.
+Specifies user access level for each segment of one or more data items such as insert, replace, retrieve, or delete data.
+Specifies which users can access databases and what data can be accessed by user.
+Confers with co-workers to determine impact of database changes on other systems and staff cost for making changes to database.
+Modifies database programs to increase processing performance, referred to as performance tuning.
+ 
+ 
+
+SECONDARY DUTIES:
+
+A completed task, not how that task is completed
+Responsibilities that are needed or desirable for better fulfilment of primary responsibilities
+Assist in the resolution of complex problems in support of production; including on call support.
+Perform core database management tasks including software installation, database creation and configuration, upgrades and patching, backup and recovery, space management, partition maintenance, and object reorganization.
+Communicates clearly, and effectively, with local and remote users.
+Manage and monitor SLAs for uptime and performance of Oracle Databases
+Documentation of, and adherence to, all critical processes
+ 
+
+ 
+
+COMPETENCY/SKILL REQUIREMENTS:
+
+Ability to work with limited supervision
+Ability to work remotely to resolve issues
+Ability to document and follow procedures
+Ability to be on Call 24x7 on a rotational basis
+Knowledge and understanding of Networking and Troubleshooting
+
+
+24.
+
+Please find the JD below
+
+
+DB - SQL, Oracle, DB2, and MYSQL
+
+
+25.
+
+
+Responsibilities
+
+Build and maintain standardized database systems consistent with best practice.
+Design and implement database in accordance to end users' information needs and views.
+Define users and enable data distribution to the right user, in appropriate format and in a timely manner.
+Create and optimize SQL queries for performance and reliability.
+Provide proactive and reactive data management support and training to users.
+Determine, enforce and document database policies, procedures and standards.
+Perform tests and evaluations regularly to ensure data security, privacy, and integrity.
+Monitor database performance, implement changes and apply new patches and versions when required.
+
+Requirements And Skills
+
+Proven working experience as a Database Administrator
+Hands-on experience with database standards and end user applications
+Excellent knowledge of data backup, recovery, security, integrity, and SQL
+Experience with database design, documentation, and coding.
+Previous experience with DBA case tools (frontend/backend) and third-party tools
+Familiarity with programming languages API
+Problem solving skills and ability to think algorithmically.
+BS degree in a computer discipline or relevant certification
+
+
+
+
+
+
+26.
+
+
+Job Description
+
+Design, implement, and maintain database solutions on SQL Server, PostgreSQL, and AWS RDS (Relational Database Service)
+Perform daily tasks like backups, recovery, patching, performance tuning, and security configuration.
+Develop and implement database automation scripts to streamline administrative tasks.
+Monitor database health and proactively identify and resolve performance issues.
+Work collaboratively with application developers and other sustaining engineering to ensure efficient database utilization and performance.
+Provide technical support to internal support teams and healthcare customers regarding database troubleshooting.
+Participate in database migrations and ensure smooth data transfer.
+Stay up-to-date on the latest database technologies, security best practices, and AWS RDS features.
+Be available for occasional out-of-hours emergency support calls to address critical database issues to ensure customer system availability
+Work with product engineering to grow and develop our cloud-based services.
+Flexible hours to work with customers based in the United States
+
+Educational Qualifications
+
+Bachelor's degree in Computer Science, Information Technology, or a related field (preferred).
+
+Required Skills
+
+Minimum 5+ years of experience as a Database Administrator.
+Proven experience working with AWS RDS and managing databases in a cloud environment.
+In-depth knowledge of SQL, PostgreSQL, and Oracle database administration.
+Strong understanding of database backup, replication and recovery procedures.
+Experience with database performance tuning and optimization in a multi database environment
+Excellent problem-solving and analytical skills.
+Ability to work independently and as part of a team.
+Experience supporting customers and providing technical guidance.
+Willingness to travel occasionally for on-site support.
+Ability to be flexible and respond to out-of-hours emergency calls.
+Ability to have some overlapping hours with U.S. teams.
+
+Preferred Skills
+
+Healthcare knowledge, workflow, and Centricity suite of products
+Ability to install/upgrade some or all components of Centricity suite of products
+Data migration knowledge
+AWS RDS Experience including database Creation, Monitoring, Orchestration, backups and recovery.
+SQL Database Security and Access Optimization
+
+
+
+27.
+
+What You Will Do
+
+As Expert Database Administrator (DBA), you will be responsible for the following tasks:
+
+ Support DB flavours such as SAP HANA, Sybase ASE, MaxDB, DB2, Oracle, MS SQL.
+ Open to learn new DB flavours based on the business needs.
+ Plan and execute DB installation, migration, and upgrades.
+ Provide technical expertise in optimization and tuning of DBs.
+ Plan and implement system migrations from SAP internal network to clouds such as GCP, AWS.
+ Provide technical expertise in creating standards based on new requirements and ensure proper roll-out and documentation to the onboard global support teams.
+ Design solutions based High availability technology.
+ Provide inputs in developing automation to optimize system operations and reduce system downtime.
+ Work with new features within DBs such as SAP HANA and Sybase ASE and provide feedback to development to improve the product.
+ Work in projects involving global teams.
+
+What You Need To Bring
+
+ 7+ years of work experience in Database Administration in Support and/or Consulting environments.
+ Database knowledge and working experiences in at least two of the following DB flavours: SAP HANA, Sybase ASE, DB2, MAXDB, Oracle.
+ Experience working in global teams.
+ Working knowledge and hands-on experience in SAP Basis administration would be an added advantage.
+
+Meet your team
+
+ We at DSD team adapt, innovate, and simplify to empower excellence and agility in SAP.
+ We manage large scale diverse product development and production systems.
+ We also provide mission critical premium support for Development Production landscapes.
+ Our teams consists of Basis, DB, OS and Hyperscaler(SAP CC/Google Cloud) consultants.
+
+
+28.
+
+A Strong Background In The Following
+
+SQL Server 2019 and Azure SQL PAAS services configuration and management
+SQL DB server installation, configuration, and administration.
+Use of SSMS and/or similar tools for advanced configuration and management.
+Use of Power BI for the creation and administration of advanced reporting.
+Use of stored procedures, scheduled tasks, and/or custom code for the automation of tasks, processes, or systems.
+Performance tuning and monitoring of database performance in a wide variety of use cases and scenarios (experience using Microsoft toolsets preferred)
+Complex and comprehensive design for disaster recovery and continuity planning (including high-availability architecture and SQL replication strategies)
+Implementation and configuration of SQL in a cloud or cloud environment.
+Advanced security configurations and audit controls (preferred experience in highly regulated environments).
+Implementation and administration of granular permissions and user-access controls
+Creating and maintaining technical documentation and user-facing reference material
+Perform day to day administration and housekeeping of SQL servers of 200-300 instances.
+Perform daily, weekly, and routine performance tuning and maintenance activities on the database.
+Apply best practices of keeping audit trails of all changes in the databases for every maintenance activity.
+Incident management, problem management, change and release management.
+Lead Critical Incident Management functions impacting multiple IT components. 
+Perform incident triaging and prepare root cause analysis documentation.
+Experienced in migrations and upgrades, hardware & software upgrades, Vulnerability Management, patching, enterprise monitoring tools like app dynamics and SQL Sentry. SCOM and Squaredup.
+Working on tasks like backup and restore, query tuning, writing SQL Queries to analyze the Data.
+Experienced in SQL monitoring tool to monitor performance of live applications, App insight to check for performance and error and data modelling.
+Experienced in Preparing Reports, Involved in Database Admin tasks like Rebuilding the indexes and new data base design. 
+Experienced in performance bottlenecks on procedures and functions and rectifying issues. 
+Experienced in writing SQL Scripts as per the request from the client.
+Must be able to automate routine tasks using latest and greatest technology and the toolsets. 
+ Must be able to work in a shift alongside other DBAs and operations engineer in 24x7 support setup.
+
+
+29.
+
+
+Responsibilities
+
+ Subject matter expert for MongoDB (primarily Atlas but also OnPrem) within the team, with the ability to share knowledge and train other team members who are primarily MSSQL/Oracle DBAs 
+ Work with dev teams across the business to identify and migrate on premise MongoDB instances to MongoDB Atlas 
+ On call cover as a part of a rotation with other members of the team 
+ Take proactive measures to monitor, trend, and tune MongoDB databases, to meet or exceed baseline stability and performance SLAs 
+ Create, implement, and maintain MongoDB Health Checks/Monitoring, and have a demonstrated ability to automate MongoDB health reporting/event notification, and corrective actions. 
+ Developing ‘best practice’ standards within the DBA team and working with local and remote development teams to ensure these standards are adhered to 
+ Working with dev teams to help designing and implement highly performant databases 
+ When performance issues arise, determine the most effective way to increase performance including scaling up or out, server configuration changes, index/query changes, etc. 
+ Identify code defects and enhancements and develop a detailed root cause analysis that can be leveraged by the product management and development teams to improve application availability and decrease the total cost of ownership. 
+ Perform all database management responsibilities in MongoDB for production and non-production workloads on premise and in the cloud. 
+ Adhere to and proactively enhance the firm’s compliance with applicable laws, regulations and codes of conduct in all jurisdictions in which the Firm conducts business and which have an impact on its business 
+ Maintain a high level of conduct, ethical standards and values 
+ Work to identify risks and enhance control across the business 
+ Report control weaknesses, illegal, suspicious or unusual activity 
+ Maintain an appropriate level of competence through ongoing training, making requests for updates or development as required 
+ Ensuring the clients are treated fairly by knowing the customer and giving suitable advice where appropriate, providing an appropriate level of service, communicating clearly and fairly and ensuring complaints are reported 
+
+
+Qualifications
+
+Job Requirements:
+
+ A minimum of 2 years administering MongoDB, ideally Mongo Atlas 
+ Experience of Mongo Atlas 
+ Maintaining high availability of all databases 
+ Database design, build, tuning and monitoring in a high transactional organization 
+ Experience working in a 24/7/365 operation. 
+ Strong educational background with a degree preferably in Computer Science or Information Systems. 
+ Ability to work under pressure to solve production issues 
+
+
+Nice to have
+
+ Experience of administering other Open Source/NoSQL Databases such as Postgres, CosmosDB and MariaDB 
+ Experience of administering MSSQL/Oracle DBs or a willingness to learn other DB technologies outside of MongoDB 
+ Experience of working within Financial Services organization 
+ Experience of working in an Agile/SCRUM environment 
+ MongoDB Certification 
+ Coding skills (PowerShell, C#, Python) to automate tasks and interact with APIs 
+ Automation and Orchestration tools (Jenkins, Ansible, GIT, TeamCity, Azure Devops, Terraform, Mongo Atlas API)
+
+
+30.
+
+What will your essential responsibilities include?
+
+ Installing and configuring Microsoft SQL Server instances in stand-alone, clustered, and Always On environments along with database replication and mirroring configuration.
+ Experience in migrating databases to Azure SQL DB, Azure SQL DW, and Azure SQL Managed Instance.
+ Assisting with SQL Server Assessment\Planning\Migration\Upgrades\Automation\Performance Tuning, etc.
+ Troubleshooting, planning migration strategy, and DR planning of SSAS\SSIS\SSRS.
+ SQL DB Automation for DB Deployments working with PowerShell, ARM Templates, etc. using DB Versioning tools like Azure DevOps SSDT, Liquibase, etc.
+ Expertise in database troubleshooting, performance tuning, query tuning of SQL\T-SQL, partitioning, and filegroup.
+ Implementation and design database Indexes for high performance, as part of the migration\upgrade activities.
+ Work self-directly and in coordination with other application, developers to investigate, analyze and resolve issues.
+ Work with internal technical resources on project implementations and resolve business and technical issues.
+ Developing, managing, testing, and implementing database backup, recovery, and maintenance plans.
+ Performing database capacity management, Handling database incidents, and finding root cause analysis.
+ Recovering databases during Disaster Recovery testing and incidents.
+ Liaising with Project Managers, Developers, Application Support, Release, and infrastructure teams to ensure database integrity, security, and performance.
+
+This position reports to Application Manager .
+
+ SHARE your talent  We’re looking for someone who has these abilities and skills:
+
+Required Skills And Abilities
+
+ Experience as SQL Database Administrator.
+ Experience designing, implementing, and managing High Availability database solutions.
+ Experience working in Azure.
+ Experience in producing technical documentation.
+ Exposure to migrating existing SQL Server (on-premises) data loads to Cloud (Azure).
+ Expert knowledge of SQL scripting \ programming.
+ Prior work experience with performance tuning, query plan analysis, and indexing.
+ Knowledge of database auditing and performance monitoring solutions.
+ Understanding of Databricks, Azure Synapse, ADLS, CI\CD Pipelines, and SSIS ETL packages.
+ Knowledge of Data Storage: Delta Lake, Parquet, ORC, AVRO.
+ Understanding of Azure Network, Security groups, Load balancing, and Storage layers.
+ Oustanding working knowledge of IT Operations and support organizations would be an advantage.
+ Ability to work self-directly with less supervision is required.
+ Experience doing backups & restores using SQL Litespeed\Commvault is a plus.
+ Knowledge of ITIL processes and tools like Service Now, SILVA, and JIRA.
+ Having Microsoft Certification is a plus.
+
+Desired Skills And Abilities
+
+ Comprehensive knowledge of DBMS.
+ Able to organize self and others including effective scheduling, prioritization, and time management skills, completing tasks to tight deadlines. Demonstrates a ‘can do’ attitude.
+ Proven track record of knowing what it takes to provide consistently first-class customer service internally and/or externally.
+ Ability to build effective working relationships (Internally/Externally), establishing credibility amongst a wide and demanding client group.
+ Comfortable taking ownership of own work, identifying the need for action (using initiative) whilst working effectively within a team. 
